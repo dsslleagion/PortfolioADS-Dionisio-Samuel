@@ -6,11 +6,26 @@
 
 # Dionisio Samuel Dos Santos Leão
 
-# introdução
+![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre. Principais conhecimentos estão mais voltados para a área de desenvolvimento web.
+
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre. Principais conhecimentos estão mais voltados para a área de desenvolvimento web. Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiária de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Tenho bastante interesse na área de desenvolvimento web , com foco principal em ReactJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados!
 
 # Principais conhecimentos
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+
+<i class="fab fa-js"></i> JavaScript
+<i class="fab fa-react"></i> React
+<i class="fab fa-python"></i> Python
+<i class="fab fa-django"></i> Django
+<i class="fab fa-react"></i> TypeScript
+<i class="fas fa-desktop"></i> Linux
+<i class="fab fa-react"></i> React Native
+<i class="fab fa-java"></i> Java
+<i class="fab fa-html5"></i> HTML
+<i class="fab fa-css3"></i> CSS
+
 
 # Meus Projetos
 
