@@ -1,8 +1,15 @@
-# Sumário
+### Sumário
 
-* Sobre o autor
-* Principais Conhecimentos
-* Primeiro Semestre - Fatech
+* [Sobre o autor](#sobre-o-autor)
+* [Principais Conhecimentos](#principais-conhecimentos)
+* [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
+* [Segundo Semestre - Fatech](#segundo-semestre-fatech)
+* [Terceiro Semestre - Fatech](#terceiro-semestre-fatech)
+* [Quarto Semestre - Fatech](#quarto-semestre-fatech)
+* [Quinto Semestre - Fatech](#quinto-semestre-fatech)
+* [Meus Projetos](#meus-projetos)
+
+# Sobre o autor<a name="sobre-o-autor"></a>
 
 # Dionisio Samuel Dos Santos Leão
 
@@ -27,7 +34,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atual
 </div>
 
 
-# Meus Projetos
+# Meus Projetos<a name="meus-projetos"></a>
+
+# Primeiro Semestre - Fatech<a name="primeiro-semestre-fatech"></a>
 
 Em 2021-2
 
@@ -43,41 +52,50 @@ Visão do Projeto
 
 <p>O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas de ADS/DSM. Tudo começou com a necessidade de armazenar e clonar os projetos feitos nos cursos ADS e DSM, para que esses projetos pudessem ser guardados e gerenciados no GitHub. A ideia central do projeto integrador era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo de estudantes nos cursos e, em seguida, clonar automaticamente os projetos. Isso incluiria a verificação de existência dos projetos para evitar duplicações. Além disso, também criamos um site para tornar mais fácil o acesso e o redirecionamento aos projetos hospedados no GitHub de cada grupo.</p>
 
-Raspagem 
-
-![raspagem](https://github.com/dsslleagion/PortifolioADS/assets/88494278/197e443b-e9ad-4ccc-aec8-849069421c27)
-
 Demonstração do Projeto
+<div align="center">
+  <p>Raspagem</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/197e443b-e9ad-4ccc-aec8-849069421c27" alt="Raspagem">
+</div>
 
-
-Clonagem
-
-![Clonagem](https://github.com/dsslleagion/PortifolioADS/assets/88494278/7174577f-a065-4874-8ec9-587376465b76)
-
-Demonstração do Projeto
+<div align="center">
+  <p>Clonagem</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/7174577f-a065-4874-8ec9-587376465b76" alt="Clonagem">
+</div>
 
 # Link do Github
 
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-1Semestre.git)
 Fatech
 
-Tecnologias adotadas na solução
+### Tecnologias Utilizadas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
+</div>
 
-Tecnologias adotadas na solução foram as seguintes:
+**Python:** Linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Foi utilizada para a criação da automação e da clonagem de cada link.
 
-*  Python, python é uma linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Criada por Guido van Rossum, ela é conhecida por sua sintaxe clara e coerente, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes, foi utilizado para a criação da automação e da clonagem de cada link.
+**JavaScript:** Linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Foi utilizado para a criação do site.
 
-*  JavaScript, javaScript (JS) é uma linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Criada originalmente para melhorar a experiência do usuário em páginas da web, o JavaScript evoluiu para se tornar uma linguagem versátil que também pode ser usada em ambientes de servidor, como o Node.js, foi utilizado para a criação do site.
-*   HTML, HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web.
-*    HTML, CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Enquanto o HTML lida com a estrutura e o conteúdo de uma página da web, o CSS trata da aparência visual, como cores, fontes, posicionamento e animações, foi utilizado para a estilização do site.
+**HTML/CSS:** HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
 
-  # Contribuições pessoais 
+# Contribuições pessoais 
 
-  Hard Skills
+### Hard Skills
+- Desenvolvimento web
+- Automação de processos
 
-  Soft Skills
+### Soft Skills
+- Trabalho em equipe
+- Comunicação eficaz
+- Resolução de problemas
 
+# Segundo Semestre - Fatech<a name="segundo-semestre-fatech"></a>
 
-# Em 2022-1
+Em 2022-1
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -102,8 +120,9 @@ Ferramentas: Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft
 
 
 demonstração do projeto
+# Terceiro Semestre - Fatech<a name="terceiro-semestre-fatech"></a>
 
-# Em 2022-2
+Em 2022-2
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -124,11 +143,9 @@ Back-end: TypeScript, JavaScript.
 Front-end: HTML e CSS.
 Ferramentas: Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
-________________________________________________________________________________
+# Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
-
-
-# Em 2023-1
+Em 2023-1
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -193,6 +210,10 @@ Ferramentas: Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsof
 ![graficos estatisticsooo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/1399c351-3cd1-445c-949d-bc7bf848af3f)
 
 ![cadastro de usuarios interessados](https://github.com/dsslleagion/PortifolioADS/assets/88494278/8894f236-2efa-4095-8f6b-cfdd70ebe22c)
+
+# Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
+
+Em 2023-2
 
 
 
