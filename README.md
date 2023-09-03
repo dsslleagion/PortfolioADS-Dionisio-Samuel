@@ -11,36 +11,16 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre. Principais conhecimentos estão mais voltados para a área de desenvolvimento web. Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiária de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Tenho bastante interesse na área de desenvolvimento web , com foco principal em ReactJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados!
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
+# Principais conhecimentos 
 
-# Principais conhecimentos
-
-- JavaScript &#xf3b9;
-- React &#xf41b;
-- Python &#xf3e2;
-- Django &#xf1c0;
-- TypeScript &#xf3b7;
-- Linux &#xf108;
-- React Native &#xf41b;
-- Java &#xf4e4;
-- HTML &#xf13b;
-- CSS &#xf38b;
-
-<style>
-  /* Estilize os ícones aqui, se necessário */
-  body {
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 900;
-  }
-</style>
-
-</body>
-</html>
+<div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-java" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ </div>
 
 # Meus Projetos
 
