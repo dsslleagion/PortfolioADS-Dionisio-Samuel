@@ -11,21 +11,36 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre. Principais conhecimentos estão mais voltados para a área de desenvolvimento web. Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiária de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Tenho bastante interesse na área de desenvolvimento web , com foco principal em ReactJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados!
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+
 # Principais conhecimentos
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+- JavaScript &#xf3b9;
+- React &#xf41b;
+- Python &#xf3e2;
+- Django &#xf1c0;
+- TypeScript &#xf3b7;
+- Linux &#xf108;
+- React Native &#xf41b;
+- Java &#xf4e4;
+- HTML &#xf13b;
+- CSS &#xf38b;
 
-<i class="fab fa-js"></i> JavaScript
-<i class="fab fa-react"></i> React
-<i class="fab fa-python"></i> Python
-<i class="fab fa-django"></i> Django
-<i class="fab fa-react"></i> TypeScript
-<i class="fas fa-desktop"></i> Linux
-<i class="fab fa-react"></i> React Native
-<i class="fab fa-java"></i> Java
-<i class="fab fa-html5"></i> HTML
-<i class="fab fa-css3"></i> CSS
+<style>
+  /* Estilize os ícones aqui, se necessário */
+  body {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+  }
+</style>
 
+</body>
+</html>
 
 # Meus Projetos
 
