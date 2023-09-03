@@ -141,6 +141,11 @@ Demonstração do Projeto
   <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
 </div>
 
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-2Semestre.git)
+Fatech
+
 # Terceiro Semestre - Fatech<a name="terceiro-semestre-fatech"></a>
 
 Em 2022-2
@@ -176,6 +181,11 @@ Demonstração do Projeto
   <p>Calculadora de Distância de Pouso</p>
   <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Calculadora de Distância de Pouso">
 </div>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-3Semestre.git)
+Fatech
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
@@ -299,6 +309,11 @@ Demonstração do Projeto
   <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/cc0c9bd9-ca18-4564-a95a-80dccb66d7b6" alt="Cadastro de Usuários Interessados">
   <p>Cadastro de Usuários Interessados</p>
 </div>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
+Fatech
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
