@@ -135,6 +135,17 @@ Visão do Projeto
 
 **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
+# Contribuições pessoais 
+
+### Hard Skills
+- Desenvolvimento web
+- Automação de processos
+
+### Soft Skills
+- Trabalho em equipe
+- Comunicação eficaz
+- Resolução de problemas
+
 Demonstração do Projeto
 <div align="center">
   <p>Aplicativo Desktop</p>
@@ -168,13 +179,23 @@ Visão do Projeto
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30">
 </div>
 
 **Back-end:** TypeScript, JavaScript. 
 **Front-end:** HTML e CSS.
 
 **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+# Contribuições pessoais 
+
+### Hard Skills
+- Desenvolvimento web
+- Automação de processos
+
+### Soft Skills
+- Trabalho em equipe
+- Comunicação eficaz
+- Resolução de problemas
 
 Demonstração do Projeto
 <div align="center">
@@ -218,6 +239,16 @@ Com esses recursos, a single-page application de criação de tickets e usuário
 **Front-end:** JavaScript utilizando React e o framework Tailwind CSS.
 
 **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+# Contribuições pessoais 
+
+### Hard Skills
+- Desenvolvimento web
+- Automação de processos
+
+### Soft Skills
+- Trabalho em equipe
+- Comunicação eficaz
+- Resolução de problemas
 
 Demonstração do Projeto
 <div align="center">
