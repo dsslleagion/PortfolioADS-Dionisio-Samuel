@@ -11,12 +11,26 @@
 
 # Sobre o autor<a name="sobre-o-autor"></a>
 
-# Dionisio Samuel Dos Santos Leão
+* Dionisio Samuel Dos Santos Leão
 
 ![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
 
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre. Principais conhecimentos estão mais voltados para a área de desenvolvimento web. Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiária de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Tenho bastante interesse na área de desenvolvimento web , com foco principal em ReactJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados!
+# Sobre Mim
+
+Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.
+
+## Experiência Profissional
+
+Durante meu percurso, tive a oportunidade de desenvolver projetos acadêmicos envolvendo scripts de automação de SPA (Single Page Application), tanto para ambientes desktop quanto para a web. Essa experiência me proporcionou valiosos insights sobre a automação de processos, otimização e eficiência.
+
+## Interesses e Habilidades
+
+Tenho um forte interesse na área de desenvolvimento web, com foco especial em tecnologias como ReactJS e NodeJS, tanto em JavaScript quanto em TypeScript. Estou constantemente explorando e aprimorando minhas habilidades nesse domínio dinâmico e em constante evolução.
+
+Além disso, busco conhecimento em Linux e DevOps, reconhecendo a importância dessas áreas no cenário atual de desenvolvimento de software. Estou comprometido em aprender e aplicar as melhores práticas relacionadas a essas disciplinas em minha jornada profissional.
+
+Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou animado para contribuir para projetos empolgantes no futuro. Se você compartilha interesses semelhantes ou deseja colaborar em algum projeto interessante, não hesite em entrar em contato!
 
 # Principais conhecimentos 
 
@@ -101,25 +115,32 @@ Em 2022-1
 
 Parceiro Pro4Tech
 
-A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do primeiro semestre de 2022, aonde a empresa Pro4Tech foi a empresa parceira que apresentou o desafio.
+<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do primeiro semestre de 2022, aonde a empresa Pro4Tech foi a empresa parceira que apresentou o desafio.</p>
 
 Visão do Projeto 
 
-Desenvolvimento de uma aplicação destop para solucionar problemas causados por mensagens de canais diferentes.
+<p>Desenvolvimento de uma aplicação destop para solucionar problemas causados por mensagens de canais diferentes.</p>
 
-Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar,alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos .
+<p>Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos.</p>
 
-Tecnologias adotadas na solução
+### Tecnologias Utilizadas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30">
+</div>
 
-Tecnologias adotadas na solução foram as seguintes:
+**Java:** Linguagem de programação utilizada no desenvolvimento do aplicativo desktop.
 
-Back-end: Java.
-Front-end: JFrame.
-Ferramentas: Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+**JFrame:** Framework utilizado na interface gráfica da aplicação.
 
+**Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
-demonstração do projeto
+Demonstração do Projeto
+<div align="center">
+  <p>Aplicativo Desktop</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
+</div>
+
 # Terceiro Semestre - Fatech<a name="terceiro-semestre-fatech"></a>
 
 Em 2022-2
@@ -128,20 +149,33 @@ Em 2022-2
 
 Parceiro Embraer
 
-A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Segundo semestre de 2022, aonde a empresa Embraer foi a empresa parceira que apresentou o desafio.
+<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Segundo semestre de 2022, aonde a empresa Embraer foi a empresa parceira que apresentou o desafio.</p>
 
 Visão do Projeto 
 
-O Objetivo do projeto pe facilitar para os pilotos de aeronaves, fazer o calculo da distancia da pista de pouso.
+<p>O Objetivo do projeto pe facilitar para os pilotos de aeronaves, fazer o calculo da distancia da pista de pouso.</p>
 
-Para tal calculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acumulo de gelo, condição de pista e nivel de aplicação de frenagem.
+<p>Para tal calculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.</p>
 
-tecnologias utilizadas
+### Tecnologias Utilizadas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
+</div>
 
-Back-end: TypeScript, JavaScript.
-Front-end: HTML e CSS.
-Ferramentas: Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+**Back-end:** TypeScript, JavaScript. 
+**Front-end:** HTML e CSS.
+
+**Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+
+Demonstração do Projeto
+<div align="center">
+  <p>Calculadora de Distância de Pouso</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Calculadora de Distância de Pouso">
+</div>
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
@@ -151,71 +185,51 @@ Em 2023-1
 
 Parceiro IonicHealth
 
-A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Primeiro semestre de 2023, aonde a empresa IonicHealth foi a empresa parceira que apresentou o desafio.
+<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Primeiro semestre de 2023, aonde a empresa IonicHealth foi a empresa parceira que apresentou o desafio.</p>
 
 Visão do Projeto 
 
-O projeto visa criar uma aplicação web (single-page application) de criação de tickets e usuários é uma aplicação web moderna e responsiva que permite aos usuários criar e gerenciar tickets de duas categorias distintas: "hotfix" e "feature". Os tickets "hotfix" são usados para problemas críticos que precisam ser resolvidos imediatamente, enquanto os tickets "feature" são usados para solicitações de novas funcionalidades ou melhorias no sistema.
+<p>O projeto visa criar uma aplicação web (single-page application) de criação de tickets e usuários é uma aplicação web moderna e responsiva que permite aos usuários criar e gerenciar tickets de duas categorias distintas: "hotfix" e "feature". Os tickets "hotfix" são usados para problemas críticos que precisam ser resolvidos imediatamente, enquanto os tickets "feature" são usados para solicitações de novas funcionalidades ou melhorias no sistema.
 Além disso, a aplicação permite aos usuários gerenciar usuários e suas permissões de acesso. Os usuários são organizados em hierarquias de acesso, com diferentes níveis de privilégio. Por exemplo, um administrador pode criar e gerenciar usuários, enquanto um usuário comum pode apenas visualizar e atualizar tickets.
-
 Os tickets são categorizados por tipo, prioridade e departamento, para que possam ser facilmente filtrados e gerenciados. Os usuários podem visualizar todos os tickets que criaram ou que foram atribuídos a eles, e também podem atualizar o status dos tickets conforme necessário.
-
 A aplicação também inclui recursos de manutenção, permitindo que os usuários gerenciem dados como departamentos, tipos de tickets e prioridades. Esses dados são usados para criar campos personalizados para os tickets e para categorizá-los de maneira adequada.
+Com esses recursos, a single-page application de criação de tickets e usuários é uma solução completa para gerenciar solicitações de suporte e problemas relacionados à organização. Com um design moderno e responsivo, a aplicação é fácil de usar e pode ser acessada de qualquer lugar com uma conexão à internet.</p>
 
-Com esses recursos, a single-page application de criação de tickets e usuários é uma solução completa para gerenciar solicitações de suporte e problemas relacionados à organização. Com um design moderno e responsivo, a aplicação é fácil de usar e pode ser acessada de qualquer lugar com uma conexão à internet.
+### Tecnologias Utilizadas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30">
+</div>
 
+**Back-end:** TypeScript, SQLite, PostgreSQL, NodeJS com o framework TypeORM. 
+**Front-end:** JavaScript utilizando React e o framework Tailwind CSS.
 
-tecnologias utilizadas
+**Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
-Back-end: TypeScript, SQLite, PostGreSQL NodeJS com o framework TypeORM.
-Front-end: Javascript utilizando React e o framework Tailwind CSS.
-Ferramentas: Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+Demonstração do Projeto
+<div align="center">
+  <p>CRUD de Tickets</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-crud-ticket.png" alt="CRUD de Tickets">
+</div>
 
+<div align="center">
+  <p>Cadastro de Ticket</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-cadastro-ticket.png" alt="Cadastro de Ticket">
+</div>
 
-
-
-![crud ticket](https://github.com/dsslleagion/PortifolioADS/assets/88494278/9201af2a-4abd-4a50-8555-889622fcfff1)
-
-![cadastro ticket](https://github.com/dsslleagion/PortifolioADS/assets/88494278/2af9997e-df9c-47cd-be35-243e2f6c6466)
-
-![ticket aprovado ou arquivado](https://github.com/dsslleagion/PortifolioADS/assets/88494278/2cd1761f-bc0f-4b1d-8a44-00bb70b03fee)
-
-![kanban](https://github.com/dsslleagion/PortifolioADS/assets/88494278/6ba8b839-2808-470f-8a88-88db133f5fda)
-
-![arquivado](https://github.com/dsslleagion/PortifolioADS/assets/88494278/d2d77981-6710-4241-9ce5-5ff64e5916db)
-
-![diferença de acesso](https://github.com/dsslleagion/PortifolioADS/assets/88494278/e8a54bd5-4cde-43fe-a863-b73239206cbc)
-
-![alteração de usuario logado](https://github.com/dsslleagion/PortifolioADS/assets/88494278/1a4eb995-c7e9-47eb-9362-f06ab7be69f7)
-
-![crud equipes](https://github.com/dsslleagion/PortifolioADS/assets/88494278/219ff5b2-815a-4b86-95b5-08be36d48663)
-
-![crud usuarios](https://github.com/dsslleagion/PortifolioADS/assets/88494278/eebcb77b-b3c5-40a2-8c59-6dc98919d3d7)
-
-![crud times e equipes](https://github.com/dsslleagion/PortifolioADS/assets/88494278/73be28cd-84de-4589-9376-65d40080fec0)
-
-![avaliação de chamados](https://github.com/dsslleagion/PortifolioADS/assets/88494278/45a3eacc-6564-4e5f-a459-d55614454ea3)
-
-![arvore dinamica](https://github.com/dsslleagion/PortifolioADS/assets/88494278/b05051cd-2624-4442-b618-9da4cfb3a265)
-
-![historico de chamado](https://github.com/dsslleagion/PortifolioADS/assets/88494278/6208440f-d666-4c92-b0d6-a6a7b0673fb6)
-
-![opção de idioma](https://github.com/dsslleagion/PortifolioADS/assets/88494278/90d58c16-5ce3-4a6f-b526-f80fc564f00a)
-
-![cadastro de solução](https://github.com/dsslleagion/PortifolioADS/assets/88494278/f70f7015-80e0-4b0a-b62c-25053bce5b03)
-
-![notificação email](https://github.com/dsslleagion/PortifolioADS/assets/88494278/1b2ac54e-c36e-49b4-9da2-74166a0cc920)
-
-![graficos estatisticsooo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/1399c351-3cd1-445c-949d-bc7bf848af3f)
-
-![cadastro de usuarios interessados](https://github.com/dsslleagion/PortifolioADS/assets/88494278/8894f236-2efa-4095-8f6b-cfdd70ebe22c)
+<div align="center">
+  <p>Kanban</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-kanban.png" alt="Kanban">
+</div>
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
 Em 2023-2
 
-
+![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
 
 
