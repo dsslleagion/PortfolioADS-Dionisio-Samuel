@@ -101,11 +101,13 @@ Fatech
 ### Hard Skills
 - Desenvolvimento web
 - Automação de processos
+- Organização no deseonvolvimento de relatorios
 
 ### Soft Skills
 - Trabalho em equipe
 - Comunicação eficaz
 - Resolução de problemas
+- Liderança Scrum Master
 
 # Segundo Semestre - Fatech<a name="segundo-semestre-fatech"></a>
 
@@ -139,12 +141,15 @@ Visão do Projeto
 
 ### Hard Skills
 - Desenvolvimento web
-- Automação de processos
+- Construção do DER, MER e Diagrama de classes
+- Desenvolvimento de Manual
+
 
 ### Soft Skills
 - Trabalho em equipe
 - Comunicação eficaz
 - Resolução de problemas
+- Validação do Backlog Product Owner 
 
 Demonstração do Projeto
 <div align="center">
@@ -191,6 +196,9 @@ Visão do Projeto
 ### Hard Skills
 - Desenvolvimento web
 - Automação de processos
+- criação do banco de dados
+- conexão com o banco de dados
+- Crud (Create-Read-Update-Delete) de Tabelas
 
 ### Soft Skills
 - Trabalho em equipe
@@ -243,7 +251,10 @@ Com esses recursos, a single-page application de criação de tickets e usuário
 
 ### Hard Skills
 - Desenvolvimento web
-- Automação de processos
+- Estruturação do Backend
+- CRUD (create-read-update-delete) de Usuario
+- Tradução do Site
+- Organização do README do projeto no github
 
 ### Soft Skills
 - Trabalho em equipe
