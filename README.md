@@ -191,7 +191,6 @@ Visão do Projeto
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/4fb6991b-487b-40db-b02a-67a409887e30" alt="Tailwind CSS" width="30">
   
 
 </div>
@@ -249,7 +248,9 @@ Com esses recursos, a single-page application de criação de tickets e usuário
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30">
+  
+  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/4fb6991b-487b-40db-b02a-67a409887e30" alt="Tailwind CSS" width="30">
+  
 </div>
 
 **Back-end:** TypeScript, SQLite, PostgreSQL, NodeJS com o framework TypeORM. 
