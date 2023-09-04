@@ -35,6 +35,10 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
   </div>
 </div>
 
+### Contatos
+* [GIT]([https://www.git.com](https://github.com/dsslleagion))
+* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit))
+
 ### Sumário
 
 
