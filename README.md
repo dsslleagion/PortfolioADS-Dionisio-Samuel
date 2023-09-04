@@ -4,7 +4,7 @@
 
 ![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
 
-# Sobre Mim
+## Introdução
 
 Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.
 
@@ -53,9 +53,9 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
 
 # Meus Projetos<a name="meus-projetos"></a>
 
-# Primeiro Semestre - Fatech<a name="primeiro-semestre-fatech"></a>
+### Primeiro Semestre - Fatech<a name="primeiro-semestre-fatech"></a>
 
-Em 2021-2
+### Em 2021-2
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -114,7 +114,7 @@ Fatech
 
 # Segundo Semestre - Fatech<a name="segundo-semestre-fatech"></a>
 
-Em 2022-1
+### Em 2022-1
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -167,7 +167,7 @@ Fatech
 
 # Terceiro Semestre - Fatech<a name="terceiro-semestre-fatech"></a>
 
-Em 2022-2
+### Em 2022-2
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -221,7 +221,7 @@ Fatech
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
-Em 2023-1
+### Em 2023-1
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
@@ -362,7 +362,7 @@ Fatech
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
-Em 2023-2
+### Em 2023-2
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
