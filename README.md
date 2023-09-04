@@ -191,7 +191,7 @@ Visão do Projeto
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30">
+  <img src="https://imgs.search.brave.com/Ua9XDKaT7bVbYA8zFz4KoMyu5SXiEs84fyhhNx9aud8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZGNz/cy5zdmc.svg" alt="Tailwind CSS" width="30">
 </div>
 
 **Back-end:** TypeScript, JavaScript. 
