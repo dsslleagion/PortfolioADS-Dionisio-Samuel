@@ -2,17 +2,6 @@
 
 # Dionisio Samuel Dos Santos Leão<a name="sobre-o-autor"></a>
 
-### Sumário
-
-
-* [Principais Conhecimentos](#principais-conhecimentos)
-* [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
-* [Segundo Semestre - Fatech](#segundo-semestre-fatech)
-* [Terceiro Semestre - Fatech](#terceiro-semestre-fatech)
-* [Quarto Semestre - Fatech](#quarto-semestre-fatech)
-* [Quinto Semestre - Fatech](#quinto-semestre-fatech)
-* [Meus Projetos](#meus-projetos)
-  
 ![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
 
 # Sobre Mim
@@ -45,6 +34,21 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
 </div>
+
+### Sumário
+
+
+* [Principais Conhecimentos](#principais-conhecimentos)
+* [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
+* [Segundo Semestre - Fatech](#segundo-semestre-fatech)
+* [Terceiro Semestre - Fatech](#terceiro-semestre-fatech)
+* [Quarto Semestre - Fatech](#quarto-semestre-fatech)
+* [Quinto Semestre - Fatech](#quinto-semestre-fatech)
+* [Meus Projetos](#meus-projetos)
+  
+
+
+
 
 
 # Meus Projetos<a name="meus-projetos"></a>
