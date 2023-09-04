@@ -2,6 +2,7 @@
 
 # Dionisio Samuel Dos Santos Leão<a name="sobre-o-autor"></a>
 
+![MicrosoftTeams-image](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc)
 
 
 ## Introdução
@@ -43,7 +44,7 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
 ### Sumário
 
 
-* [Principais Conhecimentos](#principais-conhecimentos)
+
 * [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
 * [Segundo Semestre - Fatech](#segundo-semestre-fatech)
 * [Terceiro Semestre - Fatech](#terceiro-semestre-fatech)
