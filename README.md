@@ -1,6 +1,10 @@
+
+
+# Dionisio Samuel Dos Santos Leão<a name="sobre-o-autor"></a>
+
 ### Sumário
 
-* [Sobre o autor](#sobre-o-autor)
+
 * [Principais Conhecimentos](#principais-conhecimentos)
 * [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
 * [Segundo Semestre - Fatech](#segundo-semestre-fatech)
@@ -8,13 +12,8 @@
 * [Quarto Semestre - Fatech](#quarto-semestre-fatech)
 * [Quinto Semestre - Fatech](#quinto-semestre-fatech)
 * [Meus Projetos](#meus-projetos)
-
-# Sobre o autor<a name="sobre-o-autor"></a>
-
-* Dionisio Samuel Dos Santos Leão
-
+  
 ![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
-
 
 # Sobre Mim
 
