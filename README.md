@@ -2,7 +2,7 @@
 
 # Dionisio Samuel Dos Santos Leão<a name="sobre-o-autor"></a>
 
-![88494278](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/378b8913-806c-4541-aa05-d2304d8fba3d)
+
 
 ## Introdução
 
@@ -36,8 +36,9 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
 </div>
 
 ### Contatos
-* [GIT]([https://www.git.com](https://github.com/dsslleagion))
-* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit))
+
+* [GitHub](https://github.com/dsslleagion)
+* [LinkedIn](https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit)
 
 ### Sumário
 
