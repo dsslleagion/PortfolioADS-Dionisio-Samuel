@@ -5,10 +5,6 @@
 ![MicrosoftTeams-image](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc)
 
 
-<div style="display: inline_block">
-<img align="center" src="[https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/eu.png](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc)" alt="Descrição da imagem" height="25%" width="25%">
-</div>
-
 ## Introdução
 
 Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.
@@ -56,8 +52,6 @@ Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou 
 * [Quinto Semestre - Fatech](#quinto-semestre-fatech)
 * [Meus Projetos](#meus-projetos)
   
-
-
 
 
 
