@@ -10,10 +10,20 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 
 <div class="primeiro-semestre">
-  <ul><a href="#primeiro-semestre-fatech">Primeiro Semestre - Fatech</a>
+  <ul>
+    <a href="#primeiro-semestre-fatech">Primeiro Semestre - Fatech</a>
     <details>
-      <summary>Detalhes</summary>
-      <ul>◻️ <a href="#detalhes-do-primeiro-semestre">Detalhes do Primeiro Semestre</a></ul>
+      <summary><a href="#Em-2021-2">Em 2021-2</a></summary>
+      <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-clonagem">Funcionalidade clonagem</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
     </details>
   </ul>
 </div>
@@ -21,8 +31,17 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="segundo-semestre">
   <ul><a href="#segundo-semestre-fatech">Segundo Semestre - Fatech</a>
     <details>
-      <summary>Detalhes</summary>
-      <ul>◻️ <a href="#detalhes-do-segundo-semestre">Detalhes do Segundo Semestre</a></ul>
+      <summary><a href="#Em-2021-2">Em 2022-1</a></summary>
+      <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-clonagem">Funcionalidade clonagem</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
     </details>
   </ul>
 </div>
@@ -30,8 +49,17 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="terceiro-semestre">
   <ul><a href="#terceiro-semestre-fatech">Terceiro Semestre - Fatech</a>
     <details>
-      <summary>Detalhes</summary>
-      <ul>◻️ <a href="#detalhes-do-terceiro-semestre">Detalhes do Terceiro Semestre</a></ul>
+      <summary><a href="#Em-2021-2">Em 2022-2</a></summary>
+      <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-clonagem">Funcionalidade clonagem</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
     </details>
   </ul>
 </div>
@@ -39,8 +67,17 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="quarto-semestre">
   <ul><a href="#quarto-semestre-fatech">Quarto Semestre - Fatech</a>
     <details>
-      <summary>Detalhes</summary>
-      <ul>◻️ <a href="#detalhes-do-quarto-semestre">Detalhes do Quarto Semestre</a></ul>
+      <summary><a href="#Em-2021-2">Em 2023-1</a></summary>
+      <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-clonagem">Funcionalidade clonagem</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
     </details>
   </ul>
 </div>
@@ -48,8 +85,17 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="quinto-semestre">
   <ul><a href="#quinto-semestre-fatech">Quinto Semestre - Fatech</a>
     <details>
-      <summary>Detalhes</summary>
-      <ul>◻️ <a href="#detalhes-do-quinto-semestre">Detalhes do Quinto Semestre</a></ul>
+      <summary><a href="#Em-2021-2">Em 2023-2</a></summary>
+      <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
+      <ul>◻️ <a href="#Funcionalidade-clonagem">Funcionalidade clonagem</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
     </details>
   </ul>
 </div>
