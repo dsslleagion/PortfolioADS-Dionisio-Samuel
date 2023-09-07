@@ -105,18 +105,82 @@ Visão do Projeto
 
 - [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) (HTML) / [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (CSS): HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
 
-# Contribuições pessoais 
+<h3>Contribuições Pessoais</h3>
 
-### Hard Skills
-- Desenvolvimento web
-- Automação de processos
-- Organização no deseonvolvimento de relatorios
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>★★☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>HTML/CSS</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Documentação e criação de relatórios</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+</details>
 
-### Soft Skills
-- Trabalho em equipe
-- Comunicação eficaz
-- Resolução de problemas
-- Liderança Scrum Master
+<h3>Soft Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+
+<p align="justify"><b>Proatividade:</b> maior desafio por ser educado e exposto a um sistema tradicional de ensino até a entrada na FATEC, a proatividade foi o diferencial para o alcance do objetivo proposto.</p>
+<p align="justify"><b>Comunicação Assertiva:</b> pouco conhecimento dos membros da equipe com perfis muito distintos, a comunicação foi ponto essencial para um bom planejamento.</p>
+
+
+
 
 # Segundo Semestre - Fatech<a name="segundo-semestre-fatech"></a>
 
