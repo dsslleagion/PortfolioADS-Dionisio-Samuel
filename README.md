@@ -466,6 +466,157 @@ Os tickets são categorizados por tipo, prioridade e departamento, para que poss
 A aplicação também inclui recursos de manutenção, permitindo que os usuários gerenciem dados como departamentos, tipos de tickets e prioridades. Esses dados são usados para criar campos personalizados para os tickets e para categorizá-los de maneira adequada.
 Com esses recursos, a single-page application de criação de tickets e usuários é uma solução completa para gerenciar solicitações de suporte e problemas relacionados à organização. Com um design moderno e responsivo, a aplicação é fácil de usar e pode ser acessada de qualquer lugar com uma conexão à internet.</p>
 
+<h3>Demonstração do Projeto</h3>
+
+<details>
+  <summary><b>CRUD de Tickets</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/e18bb140-f95d-4501-ac49-4c48b8124392" alt="CRUD de Tickets">
+    <p>Descrição do CRUD de Tickets</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Cadastro de Ticket</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/bd3ebb0e-9fac-4cc5-be09-1ffaf7ddcfe4" alt="Cadastro de Ticket">
+    <p>Descrição do Cadastro de Ticket</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Ticket Aprovado ou Arquivado</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/5bfea2ae-f199-4e92-88fe-3713ab459447" alt="Ticket Aprovado ou Arquivado">
+    <p>Descrição do Ticket Aprovado ou Arquivado</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Kanban</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/7bf2adeb-9895-467f-90b8-2caf23c43f7d" alt="Kanban">
+    <p>Descrição do Kanban</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Arquivado</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/397d1697-f571-47cd-a920-98c42c8d09b9" alt="Arquivado">
+    <p>Descrição do Arquivado</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Diferença de Acesso</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2861b441-6b74-4a6d-8f4e-58d38b31776e" alt="Diferença de Acesso">
+    <p>Descrição da Diferença de Acesso</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Alteração de Usuário Logado</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/5cdc8a86-dd1b-4d67-90a9-db1256320002" alt="Alteração de Usuário Logado">
+    <p>Descrição da Alteração de Usuário Logado</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>CRUD de Equipes</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f76bebd4-2985-437b-b05c-b2068796b786" alt="CRUD de Equipes">
+    <p>Descrição do CRUD de Equipes</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>CRUD de Usuários</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f13debf6-57b5-46e7-9194-0c0a7a026d8c" alt="CRUD de Usuários">
+    <p>Descrição do CRUD de Usuários</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>CRUD de Times e Equipes</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/d98a9676-1790-4db4-94c2-c28d450c40cc" alt="CRUD de Times e Equipes">
+    <p>Descrição do CRUD de Times e Equipes</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Avaliação de Chamados</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/a4492a92-16d1-4568-8f1c-e2e4fd0cce37" alt="Avaliação de Chamados">
+    <p>Descrição da Avaliação de Chamados</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Árvore Dinâmica</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/54ba4dec-d932-4416-977c-f0123f77f426" alt="Árvore Dinâmica">
+    <p>Descrição da Árvore Dinâmica</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Histórico de Chamado</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/a4492a92-16d1-4568-8f1c-e2e4fd0cce37" alt="Histórico de Chamado">
+    <p>Descrição do Histórico de Chamado</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Opção de Idioma</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/7afe38de-fbb6-4b00-aea1-d04ee6101c12" alt="Opção de Idioma">
+    <p>Descrição da Opção de Idioma</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Cadastro de Solução</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/cec49db0-1ed3-4707-ac74-46617b902f99" alt="Cadastro de Solução">
+    <p>Descrição do Cadastro de Solução</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Notificação por E-mail</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/de8b921f-370a-4f7b-bfa5-d6bce87e5c83" alt="Notificação por E-mail">
+    <p>Descrição da Notificação por E-mail</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Gráficos Estatísticos</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/99d05359-dfc4-4d42-9c8f-3ca09bfc92ed" alt="Gráficos Estatísticos">
+    <p>Descrição dos Gráficos Estatísticos</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Cadastro de Usuários Interessados</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/cc0c9bd9-ca18-4564-a95a-80dccb66d7b6" alt="Cadastro de Usuários Interessados">
+    <p>Descrição do Cadastro de Usuários Interessados</p>
+  </div>
+</details>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
+
+
 ### Tecnologias Utilizadas
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
@@ -494,101 +645,6 @@ Com esses recursos, a single-page application de criação de tickets e usuário
 - Comunicação eficaz
 - Resolução de problemas
 
-Demonstração do Projeto
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/e18bb140-f95d-4501-ac49-4c48b8124392" alt="CRUD de Tickets">
-  <p>CRUD de Tickets</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/bd3ebb0e-9fac-4cc5-be09-1ffaf7ddcfe4" alt="Cadastro de Ticket">
-  <p>Cadastro de Ticket</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/5bfea2ae-f199-4e92-88fe-3713ab459447" alt="Ticket Aprovado ou Arquivado">
-  <p>Ticket Aprovado ou Arquivado</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/7bf2adeb-9895-467f-90b8-2caf23c43f7d" alt="Kanban">
-  <p>Kanban</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/397d1697-f571-47cd-a920-98c42c8d09b9" alt="Arquivado">
-  <p>Arquivado</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2861b441-6b74-4a6d-8f4e-58d38b31776e" alt="Diferença de Acesso">
-  <p>Diferença de Acesso</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/5cdc8a86-dd1b-4d67-90a9-db1256320002" alt="Alteração de Usuário Logado">
-  <p>Alteração de Usuário Logado</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/6553dff7-dfd5-472d-bc81-8483b9cf2188" alt="CRUD de Equipes">
-  <p>CRUD de Equipes</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f76bebd4-2985-437b-b05c-b2068796b786" alt="CRUD de Usuários">
-  <p>CRUD de Usuários</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f13debf6-57b5-46e7-9194-0c0a7a026d8c" alt="CRUD de Times e Equipes">
-  <p>CRUD de Times e Equipes</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/d98a9676-1790-4db4-94c2-c28d450c40cc" alt="Avaliação de Chamados">
-  <p>Avaliação de Chamados</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/54ba4dec-d932-4416-977c-f0123f77f426" alt="Árvore Dinâmica">
-  <p>Árvore Dinâmica</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/a4492a92-16d1-4568-8f1c-e2e4fd0cce37" alt="Histórico de Chamado">
-  <p>Histórico de Chamado</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/7afe38de-fbb6-4b00-aea1-d04ee6101c12" alt="Opção de Idioma">
-  <p>Opção de Idioma</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/cec49db0-1ed3-4707-ac74-46617b902f99" alt="Cadastro de Solução">
-  <p>Cadastro de Solução</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/de8b921f-370a-4f7b-bfa5-d6bce87e5c83" alt="Notificação por E-mail">
-  <p>Notificação por E-mail</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/99d05359-dfc4-4d42-9c8f-3ca09bfc92ed" alt="Gráficos Estatísticos">
-  <p>Gráficos Estatísticos</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/cc0c9bd9-ca18-4564-a95a-80dccb66d7b6" alt="Cadastro de Usuários Interessados">
-  <p>Cadastro de Usuários Interessados</p>
-</div>
-
-# Link do Github
-
-[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
-Fatech
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
