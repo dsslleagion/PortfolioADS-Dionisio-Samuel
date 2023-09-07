@@ -200,16 +200,30 @@ Visão do Projeto
 
 <p>Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos.</p>
 
-### Tecnologias Utilizadas
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30">
-</div>
+# Tecnologias Utilizadas
 
-**Java:** Linguagem de programação utilizada no desenvolvimento do aplicativo desktop.
+- [**Java**](https://www.java.com/): Linguagem de programação utilizada no desenvolvimento do aplicativo desktop.
 
-**JFrame:** Framework utilizado na interface gráfica da aplicação.
+- [**JFrame**](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/package-summary.html): Framework utilizado na interface gráfica da aplicação.
 
-**Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+- [**Netbeans**](https://netbeans.apache.org/): IDE (Integrated Development Environment) utilizada para o desenvolvimento e programação do projeto.
+
+- [**Eclipse**](https://www.eclipse.org/): IDE (Integrated Development Environment) utilizada para o desenvolvimento e programação do projeto.
+
+- [**Canva**](https://www.canva.com/): Ferramenta de design utilizada na criação de recursos visuais.
+
+- [**Git**](https://git-scm.com/): Ferramenta de controle de versão utilizada para gerenciar o código do projeto.
+
+- [**Github**](https://github.com/): Plataforma de hospedagem de código usada para armazenar o repositório do projeto.
+
+- [**PowerPoint**](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019-365-faqs): Aplicativo de apresentação utilizado na criação de materiais visuais.
+
+- [**MySQL**](https://www.mysql.com/): Sistema de gerenciamento de banco de dados utilizado para armazenamento e recuperação de dados.
+
+- [**Microsoft Teams**](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software): Plataforma de comunicação utilizada para colaboração e comunicação da equipe durante o projeto.
+
+- [**Discord**](https://discord.com/): Plataforma de comunicação utilizada para colaboração e comunicação da equipe durante o projeto.
+
 
 # Contribuições pessoais 
 
