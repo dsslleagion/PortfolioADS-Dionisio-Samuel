@@ -96,15 +96,14 @@ Visão do Projeto
 # Link do Github
 
 [Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-1Semestre.git)
-Fatech
 
 # Tecnologias Utilizadas
 
-- [Python](https://link-para-documentacao-python.com): Linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Foi utilizada para a criação da automação e da clonagem de cada link.
+- [Python](https://www.python.org/): Linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Foi utilizada para a criação da automação e da clonagem de cada link.
 
-- [JavaScript](https://link-para-documentacao-javascript.com): Linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Foi utilizado para a criação do site.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Foi utilizado para a criação do site.
 
-- [HTML/CSS](https://link-para-documentacao-html-css.com): HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
+- [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) (HTML) / [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (CSS): HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
 
 # Contribuições pessoais 
 
