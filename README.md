@@ -80,35 +80,31 @@ Visão do Projeto
 
 <p>O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas de ADS/DSM. Tudo começou com a necessidade de armazenar e clonar os projetos feitos nos cursos ADS e DSM, para que esses projetos pudessem ser guardados e gerenciados no GitHub. A ideia central do projeto integrador era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo de estudantes nos cursos e, em seguida, clonar automaticamente os projetos. Isso incluiria a verificação de existência dos projetos para evitar duplicações. Além disso, também criamos um site para tornar mais fácil o acesso e o redirecionamento aos projetos hospedados no GitHub de cada grupo.</p>
 
-Demonstração do Projeto
-<div align="center">
-  <p>Raspagem</p>
-  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/197e443b-e9ad-4ccc-aec8-849069421c27" alt="Raspagem">
-</div>
+<details>
+<summary>Demonstração do Site</summary>
 
-<div align="center">
-  <p>Clonagem</p>
-  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/7174577f-a065-4874-8ec9-587376465b76" alt="Clonagem">
-</div>
+### Raspagem
+
+![Raspagem](https://github.com/dsslleagion/PortifolioADS/raw/main/assets/88494278/197e443b-e9ad-4ccc-aec8-849069421c27.png)
+
+### Clonagem
+
+![Clonagem](https://github.com/dsslleagion/PortifolioADS/raw/main/assets/88494278/7174577f-a065-4874-8ec9-587376465b76.png)
+
+</details>
 
 # Link do Github
 
 [Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-1Semestre.git)
 Fatech
 
-### Tecnologias Utilizadas
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
-</div>
+# Tecnologias Utilizadas
 
-**Python:** Linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Foi utilizada para a criação da automação e da clonagem de cada link.
+- [Python](https://link-para-documentacao-python.com): Linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Foi utilizada para a criação da automação e da clonagem de cada link.
 
-**JavaScript:** Linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Foi utilizado para a criação do site.
+- [JavaScript](https://link-para-documentacao-javascript.com): Linguagem de programação amplamente utilizada para desenvolvimento web e aplicações interativas em navegadores. Foi utilizado para a criação do site.
 
-**HTML/CSS:** HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
+- [HTML/CSS](https://link-para-documentacao-html-css.com): HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foram utilizados para a estilização do site.
 
 # Contribuições pessoais 
 
