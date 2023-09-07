@@ -615,21 +615,31 @@ Visão do Projeto
 [Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
 
 
-### Tecnologias Utilizadas
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30">
-  
-  <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/4fb6991b-487b-40db-b02a-67a409887e30" alt="Tailwind CSS" width="30">
-  
-</div>
+<h3>Tecnologias Utilizadas</h3>
+<ul>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a>: Linguagem de programação utilizada para o desenvolvimento de aplicações web do lado do cliente. Adiciona tipagem estática ao JavaScript, tornando o código mais robusto.</li>
+  <li><a href="https://www.sqlite.org/">SQLite</a>: Sistema de gerenciamento de banco de dados SQL utilizado para armazenamento de dados local.</li>
+  <li><a href="https://www.postgresql.org/">PostgreSQL</a>: Sistema de gerenciamento de banco de dados relacional utilizado para armazenamento de dados em ambientes mais robustos.</li>
+  <li><a href="https://nodejs.org/">Node.js</a> com o framework <a href="https://typeorm.io/">TypeORM</a>: Plataforma de desenvolvimento JavaScript que permite a execução de código JavaScript do lado do servidor. O TypeORM é um framework ORM para Node.js.</li>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a>: Ambiente de desenvolvimento integrado amplamente utilizado para desenvolvimento de software.</li>
+  <li><a href="https://www.canva.com/">Canva</a>: Plataforma online para design gráfico e criação de conteúdo visual.</li>
+  <li><a href="https://git-scm.com/">Git</a>: Sistema de controle de versão distribuído utilizado para rastreamento de alterações no código-fonte.</li>
+  <li><a href="https://github.com/">GitHub</a>: Plataforma de hospedagem de código-fonte e colaboração em projetos de software.</li>
+  <li><a href="https://www.microsoft.com/en-us/powerpoint">PowerPoint</a>: Software de apresentação utilizado para criar slides e apresentações visuais.</li>
+  <li><a href="https://www.mysql.com/">MySQL</a>: Sistema de gerenciamento de banco de dados relacional amplamente utilizado.</li>
+  <li><a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">Microsoft Teams</a>: Plataforma de colaboração e comunicação em equipe desenvolvida pela Microsoft.</li>
+  <li><a href="https://discord.com/">Discord</a>: Plataforma de comunicação por voz, vídeo e texto amplamente utilizada para comunidades online e equipes de colaboração.</li>
+</ul>
+
 
 **Back-end:** TypeScript, SQLite, PostgreSQL, NodeJS com o framework TypeORM. 
 **Front-end:** JavaScript utilizando React e o framework Tailwind CSS.
 
 **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+
 # Contribuições pessoais 
+
+<p>No projeto, minhas contribuições pessoais abrangeram uma ampla variedade de habilidades. Isso incluiu o desenvolvimento web, a estruturação do backend com TypeScript, React, Node.js e TypeORM, a implementação do CRUD de Usuário, a tradução do site para diferentes idiomas e a organização detalhada do README no GitHub. Além disso, colaborei eficazmente em equipe, mantive uma comunicação clara e contribuí para a resolução ágil de problemas. Essas contribuições desempenharam um papel fundamental no sucesso do projeto, resultando em uma aplicação web moderna, funcional e acessível.</p>
 
 ### Hard Skills
 - Desenvolvimento web
