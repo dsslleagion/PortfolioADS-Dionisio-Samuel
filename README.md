@@ -81,17 +81,17 @@ Visão do Projeto
 <p>O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas de ADS/DSM. Tudo começou com a necessidade de armazenar e clonar os projetos feitos nos cursos ADS e DSM, para que esses projetos pudessem ser guardados e gerenciados no GitHub. A ideia central do projeto integrador era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo de estudantes nos cursos e, em seguida, clonar automaticamente os projetos. Isso incluiria a verificação de existência dos projetos para evitar duplicações. Além disso, também criamos um site para tornar mais fácil o acesso e o redirecionamento aos projetos hospedados no GitHub de cada grupo.</p>
 
 <details>
-<summary>Demonstração do Site</summary>
-
-### Raspagem
-
-![Raspagem](https://github.com/dsslleagion/PortifolioADS/raw/main/assets/88494278/197e443b-e9ad-4ccc-aec8-849069421c27.png)
-
-### Clonagem
-
-![Clonagem](https://github.com/dsslleagion/PortifolioADS/raw/main/assets/88494278/7174577f-a065-4874-8ec9-587376465b76.png)
-
+    <summary><b>Funcionalidade Raspagem</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/8e4f1fa7-75fd-4481-ba7b-48491bd0919a" alt="raspagem">
 </details>
+
+<details>
+    <summary><b>Funcionalidade clonagem</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/aee81550-d212-475e-a4b2-543bd9b04ad2" alt="Clonagem">
+</details>
+
 
 # Link do Github
 
