@@ -1,7 +1,9 @@
 
 
 <h1>Portfólio de Desenvolvimento - Dionisio Samuel Dos Santos Leão</h1>
-<p align="justify">Portfólio de Desenvolvimento pessoal e acadêmico apresentado como parte do curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal.</p>
+<p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs),
+apresentado à Faculdade de Tecnologia de São José dos Campos,
+como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Analise e Desenvolvimento de Sistemas.</p>
 <hr>
 <h2>Sumário</h2>
 <p>◻️ <a href="#sobre-o-autor">Sobre o Autor</a></p>
