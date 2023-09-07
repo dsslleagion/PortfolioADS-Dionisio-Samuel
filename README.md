@@ -375,20 +375,76 @@ Visão do Projeto
 
 # Contribuições pessoais 
 
-### Hard Skills
-- Desenvolvimento web
-- Automação de processos
-- criação do banco de dados
-- conexão com o banco de dados
-- Crud (Create-Read-Update-Delete) de Tabelas
+<p>Durante o projeto, integrei o time de desenvolvimento, onde pude contribuir significativamente para a implementação bem-sucedida da aplicação. Isso incluiu a criação do banco de dados e a conexão com a aplicação, a automação de processos para aumentar a eficiência, a implementação das operações CRUD para manipulação de dados, além de desenvolver páginas web para a interface do usuário. Além das habilidades técnicas, a colaboração em equipe, a comunicação eficaz e a capacidade de resolver problemas desempenharam um papel fundamental na nossa jornada de sucesso.</p>
 
-### Soft Skills
-- Trabalho em equipe
-- Comunicação eficaz
-- Resolução de problemas
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento web</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Automação de processos</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Criação do banco de dados</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Conexão com o banco de dados</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Crud (Create-Read-Update-Delete) de Tabelas</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<h3>Soft Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação eficaz</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resolução de problemas</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Validação do Backlog Product Owner</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 
 <h3>Lições Aprendidas</h3>
+
+<p>Durante este projeto, acumulei valiosas lições e experiências que contribuíram significativamente para o meu desenvolvimento profissional. Em relação às "Hard Skills", adquiri conhecimento em desenvolvimento web, automatização de processos, criação e gerenciamento de bancos de dados, bem como a implementação de operações CRUD (Create-Read-Update-Delete) em tabelas. Essas habilidades técnicas tornaram-se ferramentas essenciais no meu repertório profissional.
+
+No que diz respeito às "Soft Skills", aprendi a importância do trabalho em equipe, como a comunicação eficaz é fundamental para o sucesso de um projeto e como a resolução de problemas pode levar a soluções criativas e eficazes. Além disso, desempenhei um papel vital na validação do backlog do Product Owner, aprimorando ainda mais minha capacidade de avaliar e aperfeiçoar os requisitos de um projeto.
+
+Essas lições não apenas contribuíram para o sucesso deste projeto, mas também servirão como base sólida para futuros empreendimentos profissionais. Aprendi a importância da combinação de habilidades técnicas e interpessoais para atingir objetivos com eficácia, mantendo o foco na qualidade e na colaboração. Este projeto serviu como um trampolim para meu crescimento profissional e continuarei aplicando essas lições aprendidas em desafios futuros.</p>
 
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
