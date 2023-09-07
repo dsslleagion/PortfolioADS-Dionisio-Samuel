@@ -200,6 +200,17 @@ Visão do Projeto
 
 <p>Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos.</p>
 
+Demonstração do Projeto
+<div align="center">
+  <p>Aplicativo Desktop</p>
+  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
+</div>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-2Semestre.git)
+Fatech
+
 # Tecnologias Utilizadas
 
 - [**Java**](https://www.java.com/): Linguagem de programação utilizada no desenvolvimento do aplicativo desktop.
@@ -292,11 +303,7 @@ Visão do Projeto
 </details>
 
 
-Demonstração do Projeto
-<div align="center">
-  <p>Aplicativo Desktop</p>
-  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
-</div>
+
 <h3>Lições Aprendidas</h3>
 <p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
 
@@ -308,10 +315,7 @@ Demonstração do Projeto
 
 
 
-# Link do Github
 
-[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-2Semestre.git)
-Fatech
 
 # Terceiro Semestre - Fatech<a name="terceiro-semestre-fatech"></a>
 
