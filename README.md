@@ -334,11 +334,36 @@ Visão do Projeto
 
 <p>Para tal calculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.</p>
 
-### Tecnologias Utilizadas
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
+<details>
+  <summary>Demonstração do Projeto</summary>
+  <div align="center">
+    <p>Calculadora de Distância de Pouso</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Calculadora de Distância de Pouso">
+  </div>
+</details>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-3Semestre.git)
+
+
+
+<h3>Tecnologias Utilizadas</h3>
+<ul>
+  <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>: Utilizada para desenvolvimento de aplicações web do lado do cliente. É uma linguagem que adiciona tipagem estática ao JavaScript, tornando o código mais robusto.</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>: Utilizada para programação do lado do cliente em aplicações web. É uma linguagem de script amplamente usada para criar interatividade em páginas da web.</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>: Utilizada para criar a estrutura de conteúdo de páginas da web. É a linguagem de marcação padrão para documentos da web.</li>
+  <li><a href="#" target="_blank">CSS</a>: Utilizada para estilização e formatação de páginas da web, permitindo o design e layout visualmente atraentes.</li>
+  <li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>: Utilizado como ambiente de desenvolvimento integrado (IDE) para codificação e gerenciamento de projetos.</li>
+  <li><a href="https://www.canva.com/" target="_blank">Canva</a>: Utilizado para criação de design gráfico e elementos visuais para o projeto.</li>
+  <li><a href="https://git-scm.com/" target="_blank">Git</a>: Utilizado para controle de versão do código fonte.</li>
+  <li><a href="https://github.com/" target="_blank">Github</a>: Utilizado como plataforma de hospedagem e colaboração de projetos de software.</li>
+  <li><a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank">PowerPoint</a>: Utilizado para criação de apresentações e documentação do projeto.</li>
+  <li><a href="https://www.mysql.com/" target="_blank">MySQL</a>: Utilizado como sistema de gerenciamento de banco de dados relacional.</li>
+  <li><a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">Microsoft Teams</a>: Utilizado para comunicação e colaboração da equipe.</li>
+  <li><a href="https://discord.com/" target="_blank">Discord</a>: Utilizado para comunicação e colaboração da equipe.</li>
+</ul>
+
   
 
 </div>
@@ -347,6 +372,7 @@ Visão do Projeto
 **Front-end:** HTML e CSS.
 
 **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+
 # Contribuições pessoais 
 
 ### Hard Skills
@@ -361,24 +387,9 @@ Visão do Projeto
 - Comunicação eficaz
 - Resolução de problemas
 
-Demonstração do Projeto
-<div align="center">
-  <p>Calculadora de Distância de Pouso</p>
-  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Calculadora de Distância de Pouso">
-</div>
 
-# Link do Github
-
-[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-3Semestre.git)
-Fatech
 <h3>Lições Aprendidas</h3>
-<p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
 
-<p align="justify">No âmbito das "Hard Skills", trabalhar com tecnologias como Java, JFrame, MySQL, Netbeans e Eclipse me proporcionou um conhecimento prático sólido em desenvolvimento de aplicativos desktop e bancos de dados. A criação de modelos de Entidade-Relacionamento (DER) e Modelo de Entidade e Relacionamento (MER) para o banco de dados enriqueceu minha compreensão de design de banco de dados e modelagem.</p>
-
-<p align="justify">Além disso, a integração do projeto me permitiu compreender a importância da colaboração eficaz em equipe e da resolução de problemas em um ambiente de desenvolvimento de software. A experiência de liderança como Product Owner e a validação do backlog me ensinaram a importância da comunicação assertiva e da organização no planejamento e execução de projetos ágeis.</p>
-
-<p align="justify">Em resumo, essa jornada proporcionou um crescimento significativo tanto em termos de habilidades técnicas quanto de habilidades interpessoais. Aprendi que o sucesso de um projeto depende não apenas da tecnologia utilizada, mas também da capacidade de trabalhar em equipe, resolver problemas de forma eficaz e, acima de tudo, atender às necessidades do cliente de maneira consistente e eficiente.</p>
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
