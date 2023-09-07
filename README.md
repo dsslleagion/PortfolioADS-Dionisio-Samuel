@@ -225,25 +225,88 @@ Visão do Projeto
 - [**Discord**](https://discord.com/): Plataforma de comunicação utilizada para colaboração e comunicação da equipe durante o projeto.
 
 
-# Contribuições pessoais 
 
-### Hard Skills
-- Desenvolvimento web
-- Construção do DER, MER e Diagrama de classes
-- Desenvolvimento de Manual
+<h3>Contribuições Pessoais</h3>
+
+<p align="justify">No projeto, desempenhei múltiplos papéis cruciais para o sucesso. Primeiramente, atuei como Product Owner (PO), liderando a equipe com eficácia e garantindo a aplicação bem-sucedida da metodologia Scrum. Além disso, fui responsável pelo desenvolvimento dos modelos DER (Diagrama de Entidade-Relacionamento) e MER (Modelo de Entidade e Relacionamento) para o banco de dados e pela integração do projeto, assegurando uma arquitetura coesa e funcional.</p>
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>JFrame</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Netbeans</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Eclipse</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 
-### Soft Skills
-- Trabalho em equipe
-- Comunicação eficaz
-- Resolução de problemas
-- Validação do Backlog Product Owner 
+
+<h3>Soft Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação eficaz</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resolução de problemas</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Validação do Backlog Product Owner</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
 
 Demonstração do Projeto
 <div align="center">
   <p>Aplicativo Desktop</p>
   <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
 </div>
+<h3>Lições Aprendidas</h3>
+<p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
+
+<p align="justify">No âmbito das "Hard Skills", trabalhar com tecnologias como Java, JFrame, MySQL, Netbeans e Eclipse me proporcionou um conhecimento prático sólido em desenvolvimento de aplicativos desktop e bancos de dados. A criação de modelos de Entidade-Relacionamento (DER) e Modelo de Entidade e Relacionamento (MER) para o banco de dados enriqueceu minha compreensão de design de banco de dados e modelagem.</p>
+
+<p align="justify">Além disso, a integração do projeto me permitiu compreender a importância da colaboração eficaz em equipe e da resolução de problemas em um ambiente de desenvolvimento de software. A experiência de liderança como Product Owner e a validação do backlog me ensinaram a importância da comunicação assertiva e da organização no planejamento e execução de projetos ágeis.</p>
+
+<p align="justify">Em resumo, essa jornada proporcionou um crescimento significativo tanto em termos de habilidades técnicas quanto de habilidades interpessoais. Aprendi que o sucesso de um projeto depende não apenas da tecnologia utilizada, mas também da capacidade de trabalhar em equipe, resolver problemas de forma eficaz e, acima de tudo, atender às necessidades do cliente de maneira consistente e eficiente.</p>
+
+
 
 # Link do Github
 
@@ -304,6 +367,14 @@ Demonstração do Projeto
 
 [Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-3Semestre.git)
 Fatech
+<h3>Lições Aprendidas</h3>
+<p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
+
+<p align="justify">No âmbito das "Hard Skills", trabalhar com tecnologias como Java, JFrame, MySQL, Netbeans e Eclipse me proporcionou um conhecimento prático sólido em desenvolvimento de aplicativos desktop e bancos de dados. A criação de modelos de Entidade-Relacionamento (DER) e Modelo de Entidade e Relacionamento (MER) para o banco de dados enriqueceu minha compreensão de design de banco de dados e modelagem.</p>
+
+<p align="justify">Além disso, a integração do projeto me permitiu compreender a importância da colaboração eficaz em equipe e da resolução de problemas em um ambiente de desenvolvimento de software. A experiência de liderança como Product Owner e a validação do backlog me ensinaram a importância da comunicação assertiva e da organização no planejamento e execução de projetos ágeis.</p>
+
+<p align="justify">Em resumo, essa jornada proporcionou um crescimento significativo tanto em termos de habilidades técnicas quanto de habilidades interpessoais. Aprendi que o sucesso de um projeto depende não apenas da tecnologia utilizada, mas também da capacidade de trabalhar em equipe, resolver problemas de forma eficaz e, acima de tudo, atender às necessidades do cliente de maneira consistente e eficiente.</p>
 
 # Quarto Semestre - Fatech<a name="quarto-semestre-fatech"></a>
 
