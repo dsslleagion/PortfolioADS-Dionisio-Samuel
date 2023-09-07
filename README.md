@@ -200,11 +200,13 @@ Visão do Projeto
 
 <p>Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos.</p>
 
-Demonstração do Projeto
-<div align="center">
-  <p>Aplicativo Desktop</p>
-  <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-desktop.png" alt="Aplicativo Desktop">
-</div>
+<details>
+  <summary>Demonstração do Projeto</summary>
+  <div align="center">
+    <p>Aplicativo desktop</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Aplicativo desktop">
+  </div>
+</details>
 
 # Link do Github
 
