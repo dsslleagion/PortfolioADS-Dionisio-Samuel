@@ -642,17 +642,60 @@ Visão do Projeto
 <p>No projeto, minhas contribuições pessoais abrangeram uma ampla variedade de habilidades. Isso incluiu o desenvolvimento web, a estruturação do backend com TypeScript, React, Node.js e TypeORM, a implementação do CRUD de Usuário, a tradução do site para diferentes idiomas e a organização detalhada do README no GitHub. Além disso, colaborei eficazmente em equipe, mantive uma comunicação clara e contribuí para a resolução ágil de problemas. Essas contribuições desempenharam um papel fundamental no sucesso do projeto, resultando em uma aplicação web moderna, funcional e acessível.</p>
 
 ### Hard Skills
-- Desenvolvimento web
-- Estruturação do Backend
-- CRUD (create-read-update-delete) de Usuario
-- Tradução do Site
-- Organização do README do projeto no github
+<details>
+  <summary><b>Clique para ver a lista de Hard Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento web</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Estruturação do Backend</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>CRUD (create-read-update-delete) de Usuário</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Tradução do Site</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização do README do projeto no GitHub</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 ### Soft Skills
-- Trabalho em equipe
-- Comunicação eficaz
-- Resolução de problemas
-
+<details>
+  <summary><b>Clique para ver a lista de Soft Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação eficaz</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resolução de problemas</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
