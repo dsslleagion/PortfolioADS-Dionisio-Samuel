@@ -1,59 +1,64 @@
 
 
-# Dionisio Samuel Dos Santos Leão<a name="sobre-o-autor"></a>
+<h1>Portfólio de Desenvolvimento - Dionisio Samuel Dos Santos Leão</h1>
+<p align="justify">Portfólio de Desenvolvimento pessoal e acadêmico apresentado como parte do curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal.</p>
+<hr>
+<h2>Sumário</h2>
+<p>◻️ <a href="#sobre-o-autor">Sobre o Autor</a></p>
+<p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 
-![MicrosoftTeams-image](https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc)
-
-
-## Introdução
-
-Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.
-
-## Experiência Profissional
-
-Durante meu percurso, tive a oportunidade de desenvolver projetos acadêmicos envolvendo scripts de automação de SPA (Single Page Application), tanto para ambientes desktop quanto para a web. Essa experiência me proporcionou valiosos insights sobre a automação de processos, otimização e eficiência.
-
-## Interesses e Habilidades
-
-Tenho um forte interesse na área de desenvolvimento web, com foco especial em tecnologias como ReactJS e NodeJS, tanto em JavaScript quanto em TypeScript. Estou constantemente explorando e aprimorando minhas habilidades nesse domínio dinâmico e em constante evolução.
-
-Além disso, busco conhecimento em Linux e DevOps, reconhecendo a importância dessas áreas no cenário atual de desenvolvimento de software. Estou comprometido em aprender e aplicar as melhores práticas relacionadas a essas disciplinas em minha jornada profissional.
-
-Estou sempre em busca de novas oportunidades de aprendizado e desafios, e estou animado para contribuir para projetos empolgantes no futuro. Se você compartilha interesses semelhantes ou deseja colaborar em algum projeto interessante, não hesite em entrar em contato!
-
-# Principais conhecimentos 
-
-<div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-java" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </div>
+<div class="primeiro-semestre">
+  <ul><a href="#primeiro-semestre-fatech">Primeiro Semestre - Fatech</a>
+    <details>
+      <summary>Detalhes</summary>
+      <ul>◻️ <a href="#detalhes-do-primeiro-semestre">Detalhes do Primeiro Semestre</a></ul>
+    </details>
+  </ul>
 </div>
 
-### Contatos
+<div class="segundo-semestre">
+  <ul><a href="#segundo-semestre-fatech">Segundo Semestre - Fatech</a>
+    <details>
+      <summary>Detalhes</summary>
+      <ul>◻️ <a href="#detalhes-do-segundo-semestre">Detalhes do Segundo Semestre</a></ul>
+    </details>
+  </ul>
+</div>
 
-* [GitHub](https://github.com/dsslleagion)
-* [LinkedIn](https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit)
+<div class="terceiro-semestre">
+  <ul><a href="#terceiro-semestre-fatech">Terceiro Semestre - Fatech</a>
+    <details>
+      <summary>Detalhes</summary>
+      <ul>◻️ <a href="#detalhes-do-terceiro-semestre">Detalhes do Terceiro Semestre</a></ul>
+    </details>
+  </ul>
+</div>
 
-### Sumário
+<div class="quarto-semestre">
+  <ul><a href="#quarto-semestre-fatech">Quarto Semestre - Fatech</a>
+    <details>
+      <summary>Detalhes</summary>
+      <ul>◻️ <a href="#detalhes-do-quarto-semestre">Detalhes do Quarto Semestre</a></ul>
+    </details>
+  </ul>
+</div>
 
+<div class="quinto-semestre">
+  <ul><a href="#quinto-semestre-fatech">Quinto Semestre - Fatech</a>
+    <details>
+      <summary>Detalhes</summary>
+      <ul>◻️ <a href="#detalhes-do-quinto-semestre">Detalhes do Quinto Semestre</a></ul>
+    </details>
+  </ul>
+</div>
 
-
-* [Primeiro Semestre - Fatech](#primeiro-semestre-fatech)
-* [Segundo Semestre - Fatech](#segundo-semestre-fatech)
-* [Terceiro Semestre - Fatech](#terceiro-semestre-fatech)
-* [Quarto Semestre - Fatech](#quarto-semestre-fatech)
-* [Quinto Semestre - Fatech](#quinto-semestre-fatech)
-* [Meus Projetos](#meus-projetos)
-  
-
-
+<hr>
+<h2>Sobre o Autor</h2>
+<p align="center"><img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc" width="20%"></p>
+<p align="justify">Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.</p>
+<p align="justify">Durante meu percurso, tive a oportunidade de desenvolver projetos acadêmicos envolvendo scripts de automação de SPA (Single Page Application), tanto para ambientes desktop quanto para a web. Essa experiência me proporcionou valiosos insights sobre a automação de processos, otimização e eficiência.</p>
+<p align="center">• <a href="https://github.com/dsslleagion">GitHub</a> • <a href="https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit">LinkedIn</a> •</p>
+<hr>
 
 # Meus Projetos<a name="meus-projetos"></a>
 
