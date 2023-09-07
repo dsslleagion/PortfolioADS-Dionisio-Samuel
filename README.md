@@ -107,6 +107,8 @@ Visão do Projeto
 
 <h3>Contribuições Pessoais</h3>
 
+<p align="justify">No projeto, desempenhei múltiplos papéis cruciais para o sucesso. Primeiramente, atuei como Scrum Master, liderando a equipe com eficácia e garantindo a aplicação bem-sucedida da metodologia Scrum. Além disso, desempenhei um papel fundamental na organização e desenvolvimento da página principal do GitHub da API, garantindo uma presença online eficiente e informativa para o projeto. Também conduzi pesquisas aprofundadas sobre Python, contribuindo com valiosos insights para o desenvolvimento do projeto. Além disso, fui responsável pela criação de manuais que forneceram orientações essenciais para a equipe e facilitaram a compreensão e o uso eficaz das ferramentas e processos do projeto.</p>
+
 <h3>Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -175,10 +177,9 @@ Visão do Projeto
   </table>
 </details>
 
-
-<p align="justify"><b>Proatividade:</b> maior desafio por ser educado e exposto a um sistema tradicional de ensino até a entrada na FATEC, a proatividade foi o diferencial para o alcance do objetivo proposto.</p>
-<p align="justify"><b>Comunicação Assertiva:</b> pouco conhecimento dos membros da equipe com perfis muito distintos, a comunicação foi ponto essencial para um bom planejamento.</p>
-
+<h3>Lições Aprendidas</h3>
+<p align="justify">Tive meu primeiro contato com programação em Python, javascript e html5. Além disso, pude avançar nos meus estudos como Product Owner e UX/UI designer.</p>
+<p align="justify">Aprendi a desenvolver em Python, criar relatórios e gerir uma equipe, pois foi a primeira vez que trabalhei com a metodologia Scrum, e logo desempenhei o papel de Scrum Master.</p>
 
 
 
