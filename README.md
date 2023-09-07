@@ -460,11 +460,7 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 
 Visão do Projeto 
 
-<p>O projeto visa criar uma aplicação web (single-page application) de criação de tickets e usuários é uma aplicação web moderna e responsiva que permite aos usuários criar e gerenciar tickets de duas categorias distintas: "hotfix" e "feature". Os tickets "hotfix" são usados para problemas críticos que precisam ser resolvidos imediatamente, enquanto os tickets "feature" são usados para solicitações de novas funcionalidades ou melhorias no sistema.
-Além disso, a aplicação permite aos usuários gerenciar usuários e suas permissões de acesso. Os usuários são organizados em hierarquias de acesso, com diferentes níveis de privilégio. Por exemplo, um administrador pode criar e gerenciar usuários, enquanto um usuário comum pode apenas visualizar e atualizar tickets.
-Os tickets são categorizados por tipo, prioridade e departamento, para que possam ser facilmente filtrados e gerenciados. Os usuários podem visualizar todos os tickets que criaram ou que foram atribuídos a eles, e também podem atualizar o status dos tickets conforme necessário.
-A aplicação também inclui recursos de manutenção, permitindo que os usuários gerenciem dados como departamentos, tipos de tickets e prioridades. Esses dados são usados para criar campos personalizados para os tickets e para categorizá-los de maneira adequada.
-Com esses recursos, a single-page application de criação de tickets e usuários é uma solução completa para gerenciar solicitações de suporte e problemas relacionados à organização. Com um design moderno e responsivo, a aplicação é fácil de usar e pode ser acessada de qualquer lugar com uma conexão à internet.</p>
+<p>O projeto consiste na criação de uma aplicação web responsiva que permite aos usuários criar e gerenciar tickets de duas categorias: "hotfix" e "feature", além de gerenciar usuários e suas permissões de acesso. Os tickets podem ser categorizados por tipo, prioridade e departamento, facilitando o gerenciamento e filtragem. A aplicação também inclui recursos de manutenção para gerenciar dados como departamentos, tipos de tickets e prioridades, usados na criação de campos personalizados e categorização dos tickets. Com um design moderno e responsivo, a aplicação é uma solução completa para o gerenciamento de solicitações de suporte e problemas organizacionais, acessível de qualquer lugar com conexão à internet.</p>
 
 <h3>Demonstração do Projeto</h3>
 
