@@ -247,11 +247,39 @@ Visão do Projeto
 <p>Faremos a unificação das mensagens em uma unica base de dados. Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e vizualizar as informações referentes as mensagens, usuarios e grupos.</p>
 
 <details>
-  <summary>Demonstração do Projeto</summary>
-  <div align="center">
-    <p>Aplicativo desktop</p>
-    <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Aplicativo desktop">
-  </div>
+    <summary><b>Funcionalidade Login</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/98754e64-2505-4c1a-8d1a-608778c0fc46" alt="Clonagem">
+</details>
+
+<details>
+    <summary><b>Funcionalidade de Consulta</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/209abdde-addb-4afb-9f4f-aa33392d61b5" alt="Clonagem1">
+</details>
+
+<details>
+    <summary><b>Funcionalidade Cadastro</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/e528639f-005c-46e1-a118-0f0ffe39ae12" alt="Clonagem1">
+</details>
+
+<details>
+    <summary><b>Funcionalidade de Alteração</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/90f6eef7-111f-4be0-bc7e-f2a6006dcde0" alt="Clonagem1">
+</details>
+
+<details>
+    <summary><b>Funcionalidade de Relatórios</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/329bb7a3-d99c-4201-b796-8624d9b7ce97" alt="Clonagem1">
+</details>
+
+<details>
+    <summary><b>Funcionalidade Chat e Grupos</b></summary>
+    <br>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/a62e5065-b871-410d-bfc5-b6f3ec179cf7" alt="Clonagem1">
 </details>
 
 # Link do Github
