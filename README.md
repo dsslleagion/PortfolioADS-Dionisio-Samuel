@@ -105,6 +105,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p align="center"><img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc" width="20%"></p>
 <p align="justify">Olá! Sou Dionisio Samuel Dos Santos Leão, estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Minha trajetória acadêmica tem se concentrado principalmente na área de desenvolvimento web, mas minha busca por conhecimento se estende além disso.</p>
 <p align="justify">Durante meu percurso, tive a oportunidade de desenvolver projetos acadêmicos envolvendo scripts de automação de SPA (Single Page Application), tanto para ambientes desktop quanto para a web. Essa experiência me proporcionou valiosos insights sobre a automação de processos, otimização e eficiência.</p>
+<p align="justify">É relevante mencionar que, atualmente, não exerço atividade profissional na área, estando em busca de oportunidades para aprimorar minhas competências. Minha experiência profissional, até o presente momento, restringe-se à realização de trabalhos acadêmicos em função da minha formação. Ressalto, ainda, que após a conclusão do ensino médio, iniciei meus estudos na FATEC.</p>
 <p align="center">• <a href="https://github.com/dsslleagion">GitHub</a> • <a href="https://www.linkedin.com/in/dionisio-samuel-dos-santos-le%C3%A3o-616848226/">LinkedIn</a> •</p>
 <hr>
 
