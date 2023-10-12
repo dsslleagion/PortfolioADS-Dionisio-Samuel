@@ -814,6 +814,15 @@ Visão do Projeto
 
 3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
 
+<h3>Lições Aprendidas</h3>
+
+Ao longo do projeto, adquiri uma gama diversificada de habilidades e conhecimentos. Isso inclui o aprendizado do desenvolvimento web, a estruturação do backend com TypeScript, React, Node.js e TypeORM, a implementação bem-sucedida do CRUD de Usuário, a habilidade de traduzir o site para diferentes idiomas e a capacidade de criar um README detalhado no GitHub.
+
+Além disso, destaco a aprendizagem sobre como colaborar efetivamente em equipe, manter uma comunicação clara e contribuir para a ágil resolução de problemas. Essas habilidades e conhecimentos adquiridos foram cruciais para o sucesso do projeto, resultando em uma aplicação web moderna, funcional e acessível.
+
+Durante esse percurso, a jornada de aprendizado me permitiu internalizar a importância do trabalho em equipe, da comunicação eficaz e da flexibilidade na resolução de desafios em um ambiente de desenvolvimento ágil. Esta experiência enriquecedora me capacitou com lições valiosas que ampliaram significativamente meu repertório de competências e conhecimentos.
+
+
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
 ### Em 2023-2
