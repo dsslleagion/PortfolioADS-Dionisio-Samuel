@@ -224,6 +224,22 @@ Visão do Projeto
   </table>
 </details>
 
+**Exemplos de Aplicação(Soft Skils):**
+
+1. **Proatividade**: Durante um projeto de desenvolvimento web, identifiquei um problema potencial e tomei medidas para resolvê-lo antes que ele afetasse o progresso do projeto.
+
+2. **Visão de Negócio**: Enquanto trabalhava em um projeto de software, considerei as implicações comerciais de nossas decisões de design e ajustei o plano de projeto de acordo.
+
+3. **Comunicação Assertiva**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e objetiva, facilitando a compreensão e a tomada de decisões.
+
+4. **Empatia**: Ao liderar uma equipe, demonstrei empatia ao compreender as preocupações e necessidades dos membros, o que fortaleceu a colaboração.
+
+5. **Inteligência Emocional**: Mantive a calma e liderei eficazmente em situações de alta pressão durante um projeto crítico.
+
+6. **Organização e Planejamento**: Elaborei um plano detalhado de projeto que incluía marcos e prazos, garantindo a conclusão bem-sucedida dentro do prazo.
+
+7. **Resiliência**: Superei desafios e obstáculos persistentes em um projeto importante, mantendo o foco e a determinação.
+
 <h3>Lições Aprendidas</h3>
 <p align="justify">Tive meu primeiro contato com programação em Python, javascript e html5. Além disso, pude avançar nos meus estudos como Product Owner e UX/UI designer.</p>
 <p align="justify">Aprendi a desenvolver em Python, criar relatórios e gerir uma equipe, pois foi a primeira vez que trabalhei com a metodologia Scrum, e logo desempenhei o papel de Scrum Master.</p>
@@ -379,7 +395,15 @@ Fatech
   </table>
 </details>
 
+<h3>Exemplos de Aplicação</h3>
 
+1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei de forma eficaz com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+
+2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei ideias de forma clara e concisa, garantindo que todos compreendessem os planos e as metas do projeto.
+
+3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+
+4. **Validação do Backlog Product Owner**: Colaborei com o Product Owner para validar e priorizar os itens do backlog do produto, garantindo que as funcionalidades mais importantes fossem implementadas primeiro, de acordo com as necessidades dos usuários.
 
 <h3>Lições Aprendidas</h3>
 <p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
@@ -513,6 +537,16 @@ Visão do Projeto
     </tr>
   </table>
 </details>
+
+<h3>Exemplos de Aplicação</h3>
+
+1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+
+2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+
+3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+
+4. **Validação do Backlog Product Owner**: Colaborei como TeamDev para validar e priorizar os itens do backlog do produto, garantindo que as funcionalidades mais importantes fossem implementadas primeiro, de acordo com as necessidades dos usuários.
 
 
 <h3>Lições Aprendidas</h3>
@@ -771,6 +805,14 @@ Visão do Projeto
     </tr>
   </table>
 </details>
+
+<h3>Exemplos de Aplicação</h3>
+
+1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+
+2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+
+3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
 
 # Quinto Semestre - Fatech<a name="quinto-semestre-fatech"></a>
 
