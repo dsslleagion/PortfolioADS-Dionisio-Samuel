@@ -689,34 +689,26 @@ Visão do Projeto
 </details>
 
 <details>
+  <summary><b>CRUD de Usuarios</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f76bebd4-2985-437b-b05c-b2068796b786" alt="Cadastro de Usuarios">
+    <p>Descrição do CRUD de Usuarios</p>
+  </div>
+</details>
+
+<details>
   <summary><b>CRUD de Equipes</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f76bebd4-2985-437b-b05c-b2068796b786" alt="CRUD de Equipes">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f13debf6-57b5-46e7-9194-0c0a7a026d8c" alt="CRUD de Equipes">
     <p>Descrição do CRUD de Equipes</p>
-  </div>
-</details>
-
-<details>
-  <summary><b>CRUD de Usuários</b></summary>
-  <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f13debf6-57b5-46e7-9194-0c0a7a026d8c" alt="CRUD de Usuários">
-    <p>Descrição do CRUD de Usuários</p>
-  </div>
-</details>
-
-<details>
-  <summary><b>CRUD de Times e Equipes</b></summary>
-  <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/d98a9676-1790-4db4-94c2-c28d450c40cc" alt="CRUD de Times e Equipes">
-    <p>Descrição do CRUD de Times e Equipes</p>
   </div>
 </details>
 
 <details>
   <summary><b>Avaliação de Chamados</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/a4492a92-16d1-4568-8f1c-e2e4fd0cce37" alt="Avaliação de Chamados">
-    <p>Descrição da Avaliação de Chamados</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/d98a9676-1790-4db4-94c2-c28d450c40cc" alt="CRUD de Times e Equipes">
+    <p>Avaliação de Chamados</p>
   </div>
 </details>
 
