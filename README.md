@@ -431,17 +431,74 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 
 Visão do Projeto 
 
-<p>O Objetivo do projeto pe facilitar para os pilotos de aeronaves, fazer o calculo da distancia da pista de pouso.</p>
+<p>O projeto visa criar uma interface para que um piloto de aeronave possa calcular a distância necessária para voar com base nos parâmetros considerados na tabela disponibilizada.</p>
 
 <p>Para tal calculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.</p>
 
 <details>
-  <summary>Demonstração do Projeto</summary>
+  <summary>Calculadora de Distância de Pouso</summary>
   <div align="center">
     <p>Calculadora de Distância de Pouso</p>
-    <img src="https://github.com/dsslleagion/PortifolioADS/assets/88494278/screenshot-calculator.png" alt="Calculadora de Distância de Pouso">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/805bda78-2dd3-49d3-98f1-f281a1f0b94d" alt="Calculadora de Distância de Pouso">
   </div>
 </details>
+
+<details>
+  <summary>Cadastro de Aeronave</summary>
+  <div align="center">
+    <p>Cadastro de Aeronave</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/dcc221ae-1918-40ef-aaa4-daa2de3f45a9" alt="Cadastro de Aeronave">
+  </div>
+</details>
+
+<details>
+  <summary>CRUD Aeronave</summary>
+  <div align="center">
+    <p>CRUD Aeronave</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/ad5e8d3b-cce5-41e6-bce8-61014635dcce" alt="CRUD Aeronave">
+  </div>
+</details>
+
+<details>
+  <summary>Cadastro de Usuario</summary>
+  <div align="center">
+    <p>Cadastro de Usuario</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/9babd1b0-bf7b-4a45-a58c-ea057a071953" alt="Cadastro de Usuario">
+  </div>
+</details>
+
+<details>
+  <summary>CRUD Usuario</summary>
+  <div align="center">
+    <p>CRUD Usuario</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/8496099b-4f55-4c04-9a09-a89c4913d658" alt="CRUD Usuario">
+  </div>
+</details>
+
+<details>
+  <summary>Troca de Unidade de Medida</summary>
+  <div align="center">
+    <p>Troca de Unidade de Medida</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/43766200-7958-4e76-be46-99370feb5ae4" alt="troca unidade de medida">
+  </div>
+</details>
+
+<details>
+  <summary>Login Admin</summary>
+  <div align="center">
+    <p>Login Admin</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/d4cae069-c5eb-4c3d-8374-ce7b954a4a84" alt="Login Admin">
+  </div>
+</details>
+
+<details>
+  <summary>Login Cliente</summary>
+  <div align="center">
+    <p>Login Cliente</p>
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/1fb3295d-1503-4742-9728-86af69467db5" alt="Login Cliente">
+  </div>
+</details>
+
 
 # Link do Github
 
