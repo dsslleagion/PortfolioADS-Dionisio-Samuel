@@ -31,7 +31,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="segundo-semestre">
   <ul><a href="#segundo-semestre-fatech">Segundo Semestre - Fatech</a>
     <details>
-      <summary><a href="#Em-2021-2">Em 2022-1</a></summary>
+      <summary><a href="#Em-2022-1">Em 2022-1</a></summary>
       <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
       <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
       <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
@@ -49,7 +49,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="terceiro-semestre">
   <ul><a href="#terceiro-semestre-fatech">Terceiro Semestre - Fatech</a>
     <details>
-      <summary><a href="#Em-2021-2">Em 2022-2</a></summary>
+      <summary><a href="#Em-2022-2">Em 2022-2</a></summary>
       <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
       <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
       <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
@@ -67,7 +67,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="quarto-semestre">
   <ul><a href="#quarto-semestre-fatech">Quarto Semestre - Fatech</a>
     <details>
-      <summary><a href="#Em-2021-2">Em 2023-1</a></summary>
+      <summary><a href="#Em-2023-1">Em 2023-1</a></summary>
       <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
       <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
       <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
@@ -85,7 +85,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <div class="quinto-semestre">
   <ul><a href="#quinto-semestre-fatech">Quinto Semestre - Fatech</a>
     <details>
-      <summary><a href="#Em-2021-2">Em 2023-2</a></summary>
+      <summary><a href="#Em-2023-2">Em 2023-2</a></summary>
       <ul>◻️ <a href="#Parceiro-Acadêmico">Parceiro Acadêmico</a></ul>
       <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
       <ul>◻️ <a href="#Funcionalidade-Raspagem">Funcionalidade Raspagem</a></ul>
