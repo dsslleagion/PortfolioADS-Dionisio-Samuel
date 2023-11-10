@@ -994,9 +994,9 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
 
 </ul>
 
-- **Back-end:** TypeScript, MongoDB Atlas, Render, NodeJS com o framework TypeORM.
-- **Front-end:** TypeScript, React Native e CSS.
-- **Ferramentas:** Visual Studio Code, Android Studio, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
+**Back-end:** TypeScript, MongoDB Atlas, Render, NodeJS com o framework TypeORM.
+**Front-end:** TypeScript, React Native e CSS.
+**Ferramentas:** Visual Studio Code, Android Studio, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 
 # Contribuições Pessoais 
 
