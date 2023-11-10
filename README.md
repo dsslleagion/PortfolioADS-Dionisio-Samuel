@@ -977,6 +977,106 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
     <p>localização em tempo real</p>
   </div>
 </details>
+<h3>Tecnologias Utilizadas</h3>
+<ul>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a>: Linguagem de programação utilizada para o desenvolvimento de aplicações web do lado do cliente. Adiciona tipagem estática ao JavaScript, tornando o código mais robusto.</li>
+  <li><a href="https://nodejs.org/">Node.js</a> com o framework <a href="https://typeorm.io/">TypeORM</a>: Plataforma de desenvolvimento JavaScript que permite a execução de código JavaScript do lado do servidor. O TypeORM é um framework ORM para Node.js.</li>
+   <li><a href="https://code.visualstudio.com/">Visual Studio Code</a>: Ambiente de desenvolvimento integrado amplamente utilizado para desenvolvimento de software.</li>
+   <li><a href="https://git-scm.com/">Git</a>: Sistema de controle de versão distribuído utilizado para rastreamento de alterações no código-fonte.</li>
+  <li><a href="https://github.com/">GitHub</a>: Plataforma de hospedagem de código-fonte e colaboração em projetos de software.</li>
+  <li><a href="https://www.microsoft.com/en-us/powerpoint">PowerPoint</a>: Software de apresentação utilizado para criar slides e apresentações visuais.</li>
+   <li><a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">Microsoft Teams</a>: Plataforma de colaboração e comunicação em equipe desenvolvida pela Microsoft.</li>
+   <li><a href="https://discord.com/">Discord</a>: Plataforma de comunicação por voz, vídeo e texto amplamente utilizada para comunidades online e equipes de colaboração.</li>
+   <li><a href="https://www.mongodb.com/cloud/atlas" target="_blank">MongoDB Atlas</a>: Serviço de banco de dados gerenciado na nuvem, oferecendo escalabilidade e facilidade de uso para aplicativos modernos.</li>
+    <li><a href="https://developer.android.com/studio" target="_blank">Android Studio</a>: Ambiente de desenvolvimento integrado (IDE) para a criação de aplicativos Android, fornecendo ferramentas poderosas e eficientes.</li>
+    <li><a href="https://reactnative.dev/" target="_blank">React Native</a>: Framework de desenvolvimento de aplicativos móveis que utiliza JavaScript e React para criar aplicativos nativos para iOS e Android.</li>
+  <li><a href="https://render.com/" target="_blank">Render Deploy Services</a>: Plataforma de hospedagem que oferece serviços de deploy simplificados para aplicativos, websites e APIs, com foco em simplicidade e desempenho.</li>
+
+</ul>
+
+- **Back-end:** TypeScript, MongoDB Atlas, Render, NodeJS com o framework TypeORM.
+- **Front-end:** TypeScript, React Native e CSS.
+- **Ferramentas:** Visual Studio Code, Android Studio, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
+
+# Contribuições Pessoais 
+
+<p>Contribuí ativamente para aprender e desenvolver a modelagem do banco de dados MongoDB, assim como seu funcionamento conectado ao backend TypeScript utilizando o TypeORM. Além disso, fui responsável pelo desenvolvimento do sistema de login, sistema de token e sistema de tipos de usuário no backend. No frontend, realizei a implementação da utilização do token para as requisições.</p>
+
+### Hard Skills
+<details>
+  <summary><b>Clique para ver a lista de Hard Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento mobile</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Estruturação do Backend</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem do Banco de dados</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Sistema de Login</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Sistema de Autenticação por token</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Sistema de Autenticação por tipo de usuario</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+### Soft Skills
+<details>
+  <summary><b>Clique para ver a lista de Soft Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação eficaz</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resolução de problemas</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<h3>Exemplos de Aplicação</h3>
+
+1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+
+2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+
+3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+
+<h3>Lições Aprendidas</h3>
+
+<p>Contribuí ativamente para aprender e desenvolver a modelagem do banco de dados MongoDB, assim como seu funcionamento conectado ao backend TypeScript utilizando o TypeORM. Além disso, fui responsável pelo desenvolvimento do sistema de login, sistema de token e sistema de tipos de usuário no backend. No frontend, realizei a implementação da utilização do token para as requisições. Durante esse processo, adquiri conhecimentos valiosos sobre a complexidade e a importância da integração entre o banco de dados e o backend, além de consolidar meu entendimento sobre sistemas de autenticação e autorização.</p>
+
+<p>A experiência contribuiu significativamente para minha compreensão do processo de desenvolvimento de aplicações celulares, destacando a necessidade de uma abordagem eficiente na gestão de dados e segurança, elementos essenciais para o sucesso de projetos nesse contexto.</p>
+
+
 
 
 
