@@ -905,6 +905,86 @@ Durante esse percurso, a jornada de aprendizado me permitiu internalizar a impor
 
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
+Parceiro Imagem
+
+<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Primeiro semestre de 2023, aonde a empresa Imagem foi a empresa parceira que apresentou o desafio.</p>
+
+Visão do Projeto
+
+<P>A aplicação móvel tem como objetivo ser uma ferramenta essencial para empresas de engenharia, como as de Saneamento, Elétrica, Telecomunicações, e outras envolvidas em obras e manutenção em campo.
+
+Os funcionários poderão usar o aplicativo em dispositivos móveis para consultar, atualizar, desativar e cadastrar informações sobre os equipamentos ativos da empresa.
+
+Essa ferramenta desempenha um papel fundamental em processos de manutenção, onde a desativação temporária de um equipamento é necessária para reparos. Durante essas intervenções, partes da rede de serviços podem ser afetadas, impactando os clientes conectados a ela. Portanto, manter o cadastro de ativos atualizado em tempo real é crucial para garantir a qualidade dos serviços oferecidos aos consumidores. A aplicação móvel visa facilitar esse processo, proporcionando uma maneira eficiente e precisa de gerenciar informações essenciais dos equipamentos em campo.</P>
+
+<h3>Demonstração do Projeto</h3>
+<details>
+  <summary><b>CRUD de Equipamentos e Usuarios</b></summary>
+   <a href="https://www.youtube.com/watch?v=7IwTFC6wEow" target="_blank">video</a>
+    <p>Assista no YouTube</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Login</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/78205bb6-7c09-4513-bc64-bd99d83bc205" alt="CRUD de Tickets">
+    <p>Login</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Tela de Perfil</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2ff41e74-1f4f-47e4-940d-d5dcd3ccb692" alt="CRUD de Tickets">
+    <p>Perfil</p>
+  </div>
+</details>
+
+<details>
+  <summary><b>Cadastro de Tipos de usuarios</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/37a8095b-5851-40ce-9a58-45004ab411a3">
+    <p>Tipos de usuarios</p>
+  </div>
+</details>
+<details>
+  <summary><b>Diferença de Acesso</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f96c2b50-5f6c-4c10-ac43-475b70624221">
+    <p>Diferença de acesso</p>
+  </div>
+</details>
+<details>
+  <summary><b>Mapa</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/92d52cad-1ae5-4b5f-8831-1ad6b466bf9d">
+    <p>Mapa</p>
+  </div>
+</details>
+<details>
+  <summary><b>Filtro de Busca no Mapa</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/1d7c3f5b-5d80-4ad9-a31e-448a33e1d55f">
+    <p>Filtro de busca no Mapa</p>
+  </div>
+</details>
+<details>
+  <summary><b>Setando Localização em tempo real no cadastro</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/498f2b07-95f6-47b6-9f44-b8425f2b7871">
+    <p>localização em tempo real</p>
+  </div>
+</details>
+
+
+
+
+
+
+
+
 
 
 
