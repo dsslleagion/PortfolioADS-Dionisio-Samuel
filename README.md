@@ -281,8 +281,8 @@ Visão do Projeto
 
 Parceiro Pro4Tech
 
-<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do primeiro semestre de 2022, aonde a empresa Pro4Tech foi a empresa parceira que apresentou o desafio.</p>
+<p>A Instituição de Ensino Superior localizada em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de ensino superior com o objetivo de capacitar profissionais na área tecnológica.
+Em sintonia com as demandas da indústria 4.0, a instituição optou por implementar uma abordagem pedagógica inovadora denominada Método de Aprendizado por Projetos Integradores (MAPI). A partir do primeiro semestre de 2022, a parceria estratégica estabelecida com a empresa Pro4Tech resultou na apresentação de desafios educacionais significativos aos estudantes.</p>
 
 Visão do Projeto 
 
@@ -404,19 +404,19 @@ Fatech
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Trabalho em equipe</td>
+      <td>Colaboração em Grupo</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Comunicação eficaz</td>
+      <td>Comunicação Clara e Concisa</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Resolução de problemas</td>
+      <td>Abordagem de Desafios Técnicos</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Validação do Backlog Product Owner</td>
+      <td>Avaliação do Backlog pelo Product Owner</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
@@ -424,13 +424,13 @@ Fatech
 
 <h3>Exemplos de Aplicação</h3>
 
-1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei de forma eficaz com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+1. **Colaboração em Grupo**:  Participando ativamente de um projeto desafiador, desempenhei um papel eficaz ao trabalhar harmoniosamente com colegas provenientes de diversas especialidades. Minha contribuição envolveu a aplicação das minhas habilidades específicas, ao mesmo tempo em que valorizei e absorvi cuidadosamente as ideias e sugestões dos demais membros da equipe, tudo visando alcançar nossos objetivos compartilhados.
 
-2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei ideias de forma clara e concisa, garantindo que todos compreendessem os planos e as metas do projeto.
+2. **Comunicação Clara e Concisa**: Durante uma reunião de equipe, expus minhas ideias de maneira nítida e resumida, assegurando que todos presentes compreendessem integralmente os planos e metas do projeto.
 
-3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+3. **Abordagem de Desafios Técnicos**:Confrontei um obstáculo técnico substancial e, mediante uma análise minuciosa e pesquisa aprofundada, identifiquei uma solução efetiva que possibilitou a continuidade ininterrupta do projeto.
 
-4. **Validação do Backlog Product Owner**: Colaborei com o Product Owner para validar e priorizar os itens do backlog do produto, garantindo que as funcionalidades mais importantes fossem implementadas primeiro, de acordo com as necessidades dos usuários.
+4. **Avaliação do Backlog pelo Product Owner**: Trabalhei em conjunto com o Product Owner para validar e estabelecer prioridades nos itens do backlog do produto. Isso assegurou que as funcionalidades mais cruciais fossem implementadas inicialmente, alinhadas às exigências dos usuários.
 
 <h3>Lições Aprendidas</h3>
 <p align="justify">Durante o projeto, uma série de lições valiosas foram aprendidas, enriquecendo meu conjunto de habilidades e experiência. Ao assumir o papel de Product Owner (PO), pude aprofundar minha compreensão da gestão de projetos e da importância de uma comunicação eficaz no processo de desenvolvimento. Validar o backlog do Product Owner tornou-se uma prática essencial para garantir que as necessidades do cliente fossem atendidas de forma precisa e eficiente.</p>
@@ -453,8 +453,7 @@ Fatech
 
 Parceiro Embraer
 
-<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Segundo semestre de 2022, aonde a empresa Embraer foi a empresa parceira que apresentou o desafio.</p>
+<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação para a formação de tecnólogos. Em resposta às demandas da indústria 4.0, a instituição optou por implementar uma abordagem educacional inovadora denominada Método de Aprendizado por Projeto Integrador (API). A partir do segundo semestre de 2022, a parceria estratégica estabelecida com a empresa Embraer resultou na apresentação de desafios educacionais aos estudantes.</p>
 
 Visão do Projeto 
 
@@ -604,19 +603,19 @@ Visão do Projeto
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Trabalho em equipe</td>
+      <td>Colaboração em Grupo</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Comunicação eficaz</td>
+      <td>Comunicação Clara e Eficiente</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Resolução de problemas</td>
+      <td>Abordagem de Desafios Técnicos</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Validação do Backlog Product Owner</td>
+      <td>Avaliação do Backlog pelo Product Owner</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
@@ -624,13 +623,13 @@ Visão do Projeto
 
 <h3>Exemplos de Aplicação</h3>
 
-1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+1. **Colaboração em Grupo**: Participando ativamente de um projeto desafiador, contribuí de maneira efetiva ao cooperar com colegas de diversas especialidades. Minhas habilidades foram aplicadas, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados.
 
-2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+2. **Comunicação Clara e Eficiente**:Durante uma reunião de equipe, expus minhas ideias de maneira evidente e sucinta, assegurando que todos compreendessem integralmente os planos e metas do projeto.
 
-3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+3. **Abordagem de Desafios Técnicos**: Confrontei um obstáculo técnico de relevância e, por meio de uma análise meticulosa e pesquisa aprofundada, identifiquei uma solução efetiva que possibilitou a continuidade ininterrupta do projeto.
 
-4. **Validação do Backlog Product Owner**: Colaborei como TeamDev para validar e priorizar os itens do backlog do produto, garantindo que as funcionalidades mais importantes fossem implementadas primeiro, de acordo com as necessidades dos usuários.
+4. **Avaliação do Backlog pelo Product Owner**: Participei como membro do time de desenvolvimento para validar e estabelecer prioridades nos itens do backlog do produto, assegurando a implementação prioritária das funcionalidades mais essenciais, alinhadas às exigências dos usuários.
 
 
 <h3>Lições Aprendidas</h3>
@@ -650,8 +649,7 @@ Essas lições não apenas contribuíram para o sucesso deste projeto, mas tamb�
 
 Parceiro IonicHealth
 
-<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Primeiro semestre de 2023, aonde a empresa IonicHealth foi a empresa parceira que apresentou o desafio.</p>
+<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação para a formação de tecnólogos. Em resposta às exigências da indústria 4.0, a instituição optou por implementar uma abordagem educacional inovadora chamada Aprendizado por Projeto Integrador (API). A partir do primeiro semestre de 2023, a parceria estratégica estabelecida com a empresa IonicHealth resultou na apresentação de desafios educacionais aos estudantes.</p>
 
 Visão do Projeto 
 
@@ -868,15 +866,15 @@ Visão do Projeto
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Trabalho em equipe</td>
+      <td>Trabalho em Conjunto</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Comunicação eficaz</td>
+      <td>Comunicação Produtiva</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Resolução de problemas</td>
+      <td>Abordagem de Desafios Técnicos</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
@@ -884,11 +882,11 @@ Visão do Projeto
 
 <h3>Exemplos de Aplicação</h3>
 
-1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+1. **Trabalho em Conjunto**: No decorrer de um projeto desafiador, integrei-me de maneira eficaz com colegas de diferentes setores, agregando minhas competências e ouvindo com atenção as ideias dos demais para atingirmos nossos objetivos coletivos.
 
-2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+2. **Comunicação Produtiva**: Durante uma reunião de equipe, expus minhas ideias de maneira evidente e resumida, assegurando que todos tivessem compreensão completa dos planos e metas do projeto.
 
-3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+3. **Abordagem de Desafios Técnicos**: Confrontei um obstáculo técnico considerável e, mediante uma análise minuciosa e pesquisa aprofundada, descobri uma solução efetiva que possibilitou a continuidade ininterrupta do projeto.
 
 <h3>Lições Aprendidas</h3>
 
@@ -907,8 +905,7 @@ Durante esse percurso, a jornada de aprendizado me permitiu internalizar a impor
 
 Parceiro Imagem
 
-<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do Primeiro semestre de 2023, aonde a empresa Imagem foi a empresa parceira que apresentou o desafio.</p>
+<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação destinados à formação de tecnólogos. Com o intuito de alinhar-se às demandas da indústria 4.0, a escola optou por incorporar uma abordagem educacional inovadora denominada Método de Aprendizagem por Projeto Integrador (API). A partir do primeiro semestre de 2023, a empresa Imagem estabeleceu uma parceria estratégica, apresentando desafios educacionais aos alunos.</p>
 
 Visão do Projeto
 
@@ -1048,11 +1045,11 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Trabalho em equipe</td>
+      <td>Trabalho Colaborativo</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Comunicação eficaz</td>
+      <td>Expressão Eficiente de Ideias</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
@@ -1064,11 +1061,11 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
 
 <h3>Exemplos de Aplicação</h3>
 
-1. **Trabalho em equipe**: Ao colaborar em um projeto complexo, trabalhei eficazmente com colegas de diferentes áreas, contribuindo com minhas habilidades e ouvindo atentamente as contribuições dos outros para alcançar nossos objetivos comuns.
+1. **Trabalho Colaborativo**: Participando ativamente de um projeto complexo, contribuí de maneira efetiva ao trabalhar em conjunto com colegas de diversas áreas. Minhas habilidades foram colocadas em prática, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados.
 
-2. **Comunicação eficaz**: Em uma reunião de equipe, apresentei minhas ideias de forma clara e concisa, garantindo que todos compreendessem os planos e metas do projeto.
+2. **Expressão Eficiente de Ideias:**:Em uma reunião de equipe, apresentei minhas ideias de maneira clara e objetiva, assegurando que todos compreendessem integralmente os planos e metas do projeto.
 
-3. **Resolução de problemas**: Enfrentei um desafio técnico significativo e, por meio de análise cuidadosa e pesquisa, identifiquei uma solução eficaz que permitiu que o projeto prosseguisse sem interrupções.
+3. **Superando Desafios Técnicos**: Enfrentei um desafio técnico significativo e, por meio de uma análise cuidadosa e pesquisa aprofundada, encontrei uma solução eficiente que permitiu a progressão contínua do projeto, sem contratempos.
 
 <h3>Lições Aprendidas</h3>
 
