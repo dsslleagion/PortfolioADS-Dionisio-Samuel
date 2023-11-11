@@ -1053,7 +1053,7 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
-      <td>Resolução de problemas</td>
+      <td>Superando Desafios Técnicos</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
@@ -1063,7 +1063,7 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
 
 1. **Trabalho Colaborativo**: Participando ativamente de um projeto complexo, contribuí de maneira efetiva ao trabalhar em conjunto com colegas de diversas áreas. Minhas habilidades foram colocadas em prática, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados.
 
-2. **Expressão Eficiente de Ideias:**:Em uma reunião de equipe, apresentei minhas ideias de maneira clara e objetiva, assegurando que todos compreendessem integralmente os planos e metas do projeto.
+2. **Expressão Eficiente de Ideias**:Em uma reunião de equipe, apresentei minhas ideias de maneira clara e objetiva, assegurando que todos compreendessem integralmente os planos e metas do projeto.
 
 3. **Superando Desafios Técnicos**: Enfrentei um desafio técnico significativo e, por meio de uma análise cuidadosa e pesquisa aprofundada, encontrei uma solução eficiente que permitiu a progressão contínua do projeto, sem contratempos.
 
