@@ -905,7 +905,7 @@ Durante esse percurso, a jornada de aprendizado me permitiu internalizar a impor
 
 Parceiro Imagem
 
-<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação destinados à formação de tecnólogos. Com o intuito de alinhar-se às demandas da indústria 4.0, a escola optou por incorporar uma abordagem educacional inovadora denominada Método de Aprendizagem por Projeto Integrador (API). A partir do primeiro semestre de 2023, a empresa Imagem estabeleceu uma parceria estratégica, apresentando desafios educacionais aos alunos.</p>
+<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação destinados à formação de tecnólogos. Com o intuito de alinhar-se às demandas da indústria 4.0, a escola optou por incorporar uma abordagem educacional inovadora denominada Método de Aprendizagem por Projeto Integrador (API). A partir do segundo semestre de 2023, a empresa Imagem estabeleceu uma parceria estratégica, apresentando desafios educacionais aos alunos.</p>
 
 Visão do Projeto
 
