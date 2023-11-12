@@ -281,9 +281,6 @@ Visão do Projeto
 
 Parceiro Pro4Tech
 
-<p>A Instituição de Ensino Superior localizada em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de ensino superior com o objetivo de capacitar profissionais na área tecnológica.
-Em sintonia com as demandas da indústria 4.0, a instituição optou por implementar uma abordagem pedagógica inovadora denominada Método de Aprendizado por Projetos Integradores (MAPI). A partir do primeiro semestre de 2022, a parceria estratégica estabelecida com a empresa Pro4Tech resultou na apresentação de desafios educacionais significativos aos estudantes.</p>
-
 Visão do Projeto 
 
 <p>Desenvolvimento de uma aplicação destop para solucionar problemas causados por mensagens de canais diferentes.</p>
@@ -452,8 +449,6 @@ Fatech
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
 Parceiro Embraer
-
-<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação para a formação de tecnólogos. Em resposta às demandas da indústria 4.0, a instituição optou por implementar uma abordagem educacional inovadora denominada Método de Aprendizado por Projeto Integrador (API). A partir do segundo semestre de 2022, a parceria estratégica estabelecida com a empresa Embraer resultou na apresentação de desafios educacionais aos estudantes.</p>
 
 Visão do Projeto 
 
@@ -649,7 +644,6 @@ Essas lições não apenas contribuíram para o sucesso deste projeto, mas tamb�
 
 Parceiro IonicHealth
 
-<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação para a formação de tecnólogos. Em resposta às exigências da indústria 4.0, a instituição optou por implementar uma abordagem educacional inovadora chamada Aprendizado por Projeto Integrador (API). A partir do primeiro semestre de 2023, a parceria estratégica estabelecida com a empresa IonicHealth resultou na apresentação de desafios educacionais aos estudantes.</p>
 
 Visão do Projeto 
 
@@ -904,8 +898,6 @@ Durante esse percurso, a jornada de aprendizado me permitiu internalizar a impor
 ![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
 
 Parceiro Imagem
-
-<p>A instituição de ensino superior em São José dos Campos, vinculada ao Centro Paula Souza, disponibiliza programas de graduação destinados à formação de tecnólogos. Com o intuito de alinhar-se às demandas da indústria 4.0, a escola optou por incorporar uma abordagem educacional inovadora denominada Método de Aprendizagem por Projeto Integrador (API). A partir do segundo semestre de 2023, a empresa Imagem estabeleceu uma parceria estratégica, apresentando desafios educacionais aos alunos.</p>
 
 Visão do Projeto
 
