@@ -967,14 +967,14 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
   </div>
 </details>
 <details>
-  <summary><b>distância de 10km usuario filtro</b></summary>
+  <summary><b>Distância de 10km Usuário filtro</b></summary>
   <div align="center">
     <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/9d7404c5-42b5-4920-ad24-540cb0cceba6">
     <p>distância de 10km usuario filtro</p>
   </div>
 </details>
 <details>
-  <summary><b>historico equipamento</b></summary>
+  <summary><b>Histórico Equipamento</b></summary>
   <div align="center">
     <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/fa306de4-3e14-4bd8-b599-21bebdddd236">
     <p>historico equipamento</p>
