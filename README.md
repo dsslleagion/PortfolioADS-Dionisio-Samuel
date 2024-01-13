@@ -983,7 +983,7 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
 
 # Link do Github
 
-[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
+[Projeto no GitHub](https://github.com/4-Fatech/API5Semestre.git)
 
 <h3>Tecnologias Utilizadas</h3>
 <ul>
