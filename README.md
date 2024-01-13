@@ -966,6 +966,25 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
     <p>localização em tempo real</p>
   </div>
 </details>
+<details>
+  <summary><b>distância de 10km usuario filtro</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/9d7404c5-42b5-4920-ad24-540cb0cceba6">
+    <p>distância de 10km usuario filtro</p>
+  </div>
+</details>
+<details>
+  <summary><b>historico equipamento</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/fa306de4-3e14-4bd8-b599-21bebdddd236">
+    <p>historico equipamento</p>
+  </div>
+</details>
+
+# Link do Github
+
+[Projeto no GitHub](https://github.com/Grupo-4-Fatech/API-4Semestre.git)
+
 <h3>Tecnologias Utilizadas</h3>
 <ul>
   <li><a href="https://www.typescriptlang.org/">TypeScript</a>: Linguagem de programação utilizada para o desenvolvimento de aplicações web do lado do cliente. Adiciona tipagem estática ao JavaScript, tornando o código mais robusto.</li>
