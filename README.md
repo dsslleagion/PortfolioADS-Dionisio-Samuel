@@ -1098,18 +1098,144 @@ A [Altave](https://altave.com.br/) é a única empresa no Brasil a produzir bal�
 
 Desenvolver uma aplicação web onde seja possível consultar, atualizar, desativar e cadastrar dados das redzones, departamentos e usuários e monitorar o fluxo de pessoas que adentram uma redzone, via aplicação web.
 
-### • Link do Github
+### Demonstração do Projeto
 
-<a href="https://github.com/4-Fatech/API-6SEM" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório dedicado ao 6°Semestre - FATECH</span></a>
+<details>
+  <summary><b>CRUD de Redzones, Departamentos e Usuários</b></summary>
+  <a href="https://www.youtube.com/watch?v=7IwTFC6wEow" target="_blank">video</a>
+  <p>Assista no YouTube</p>
+</details>
 
+<details>
+  <summary><b>Login</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/78205bb6-7c09-4513-bc64-bd99d83bc205" alt="CRUD de Tickets">
+    <p>Login</p>
+  </div>
+</details>
 
+<details>
+  <summary><b>Tela de Perfil</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2ff41e74-1f4f-47e4-940d-d5dcd3ccb692" alt="CRUD de Tickets">
+    <p>Perfil</p>
+  </div>
+</details>
 
+<details>
+  <summary><b>Cadastro de Redzones</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/37a8095b-5851-40ce-9a58-45004ab411a3" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
+  </div>
+</details>
 
+<details>
+  <summary><b>Monitoramento de Fluxo de Pessoas</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f96c2b50-5f6c-4c10-ac43-475b70624221" alt="Monitoramento de Fluxo de Pessoas">
+    <p>Monitoramento de Fluxo de Pessoas</p>
+  </div>
+</details>
 
+## Link do GitHub
 
+[Projeto no GitHub](https://github.com/4-Fatech/API-6SEM)
 
+### Tecnologias Utilizadas
 
+<ul>
+  <li><a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">Java 17</a>: Linguagem de programação utilizada para o desenvolvimento da aplicação backend.</li>
+  <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a> com <a href="https://maven.apache.org/">Maven</a>: Framework utilizado para criar a aplicação Java, com Maven para gerenciamento de dependências.</li>
+  <li><a href="https://supabase.com/">Supabase Database</a>: Banco de dados utilizado para armazenar e gerenciar os dados da aplicação.</li>
+  <li><a href="https://vuejs.org/">Vue.js</a>: Framework JavaScript utilizado para o desenvolvimento da interface de usuário da aplicação.</li>
+  <li><a href="https://nodejs.org/">Node.js</a>: Plataforma JavaScript utilizada para executar código do lado do servidor.</li>
+  <li><a href="https://www.python.org/">Python</a>: Linguagem de programação utilizada para desenvolver scripts e ferramentas auxiliares.</li>
+  <li><a href="https://github.com/AlexeyAB/darknet">YOLO</a>: Framework de detecção de objetos em tempo real utilizado para o monitoramento do fluxo de pessoas.</li>
+  <li><a href="https://scikit-learn.org/">Scikit-learn</a>: Biblioteca de aprendizado de máquina em Python utilizada para análise de dados e desenvolvimento de modelos de machine learning.</li>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a>: Ambiente de desenvolvimento integrado (IDE) amplamente utilizado para desenvolvimento de software.</li>
+  <li><a href="https://discord.com/">Discord</a>: Plataforma de comunicação por voz, vídeo e texto amplamente utilizada para comunicação e colaboração em equipe.</li>
+</ul>
 
+**Back-end:** Java 17, Spring Boot com Maven, Supabase Database.  
+**Front-end:** Vue.js, Node.js.  
+**Ferramentas:** Python, YOLO, Scikit-learn, Visual Studio Code, Discord.
+
+## Contribuições Pessoais 
+
+Durante o desenvolvimento deste projeto, fui responsável pela implementação do backend utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. No frontend, contribuí com a integração do Vue.js e Node.js, assegurando uma interface de usuário eficiente e responsiva. Além disso, desenvolvi scripts em Python para análise de dados e integração do YOLO para monitoramento em tempo real.
+
+### Hard Skills
+<details>
+  <summary><b>Clique para ver a lista de Hard Skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento Backend</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco de Dados</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento Frontend</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Integração de Ferramentas de Análise de Dados</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Monitoramento em Tempo Real com YOLO</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Implementação de Scripts em Python</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+### Soft Skills
+<details>
+  <summary><b>Clique para ver a lista de Soft Skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Trabalho Colaborativo</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Expressão Eficiente de Ideias</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Superando Desafios Técnicos</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+## Exemplos de Aplicação
+
+1. **Trabalho Colaborativo**: Participando ativamente de um projeto complexo, contribuí de maneira efetiva ao trabalhar em conjunto com colegas de diversas áreas. Minhas habilidades foram colocadas em prática, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados.
+
+2. **Expressão Eficiente de Ideias**: Em uma reunião de equipe, apresentei minhas ideias de maneira clara e objetiva, assegurando que todos compreendessem integralmente os planos e metas do projeto.
+
+3. **Superando Desafios Técnicos**: Enfrentei um desafio técnico significativo e, por meio de uma análise cuidadosa e pesquisa aprofundada, encontrei uma solução eficiente que permitiu a progressão contínua do projeto, sem contratempos.
+
+## Lições Aprendidas
+
+Durante o desenvolvimento deste projeto, fui responsável pela implementação do backend utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. No frontend, contribuí com a integração do Vue.js e Node.js, assegurando uma interface de usuário eficiente e responsiva. Além disso, desenvolvi scripts em Python para análise de dados e integração do YOLO para monitoramento em tempo real. 
+
+Essa experiência foi enriquecedora, destacando a importância de uma abordagem integrada no desenvolvimento de aplicações web, onde a combinação de várias tecnologias e ferramentas contribui para um produto final robusto e eficiente. A integração entre diferentes tecnologias e a capacidade de adaptar-se a novas ferramentas foram habilidades fundamentais aprimoradas durante este semestre.
 
 
 
