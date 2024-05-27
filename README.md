@@ -1084,6 +1084,24 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
 
 <p>A experiência contribuiu significativamente para minha compreensão do processo de desenvolvimento de aplicações celulares, destacando a necessidade de uma abordagem eficiente na gestão de dados e segurança, elementos essenciais para o sucesso de projetos nesse contexto.</p>
 
+# Sexto Semestre - Fatech<a name="sexto-semestre-fatech"></a>
+
+### Em 2024-1
+
+![logo](https://github.com/dsslleagion/PortifolioADS/assets/88494278/50871356-c159-4b99-ae86-e8ecf21ba1bd)
+
+Parceiro Altave
+
+A [Altave](https://altave.com.br/) é a única empresa no Brasil a produzir balões cativos para monitoramento inteligente de grandes áreas. Com o passar dos anos, eles ganharam conhecimento e maturidade para expandir a atuação ao entregar solução completa de segurança de software e hardware.
+
+### Visão do Projeto
+
+Desenvolver uma aplicação web onde seja possível consultar, atualizar, desativar e cadastrar dados das redzones, departamentos e usuários e monitorar o fluxo de pessoas que adentram uma redzone, via aplicação web.
+
+### • Link do Github
+
+<a href="https://github.com/4-Fatech/API-6SEM" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório dedicado ao 6°Semestre - FATECH</span></a>
+
 
 
 
