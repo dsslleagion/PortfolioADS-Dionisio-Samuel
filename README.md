@@ -1100,43 +1100,72 @@ Desenvolver uma aplicação web onde seja possível consultar, atualizar, desati
 
 ### Demonstração do Projeto
 
-<details>
-  <summary><b>CRUD de Redzones, Departamentos e Usuários</b></summary>
-  <a href="https://www.youtube.com/watch?v=7IwTFC6wEow" target="_blank">video</a>
-  <p>Assista no YouTube</p>
-</details>
+IA Monitoramento de Fluxo de Pessoas
+[link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
 
 <details>
-  <summary><b>Login</b></summary>
+  <summary><b>Registro De Fluxo</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/78205bb6-7c09-4513-bc64-bd99d83bc205" alt="CRUD de Tickets">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/835d027b-06a6-41ff-a805-cd93c469db51" alt="CRUD de Tickets">
     <p>Login</p>
   </div>
 </details>
 
 <details>
+  <summary><b>Login e Nivel de Usuario</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/4a8b9a1c-f3c5-402c-921e-6c2cb6bdbb19" alt="CRUD de Tickets">
+    <p>Login</p>
+  </div>
+</details>
+<details>
   <summary><b>Tela de Perfil</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2ff41e74-1f4f-47e4-940d-d5dcd3ccb692" alt="CRUD de Tickets">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/f6c95b1b-7a24-4477-b129-c3591ceb3110" alt="CRUD de Tickets">
     <p>Perfil</p>
   </div>
 </details>
-
 <details>
   <summary><b>Cadastro de Redzones</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/37a8095b-5851-40ce-9a58-45004ab411a3" alt="Cadastro de Redzones">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/fe7eed0f-1037-45bb-b05f-2f54c4ba18aa" alt="Cadastro de Redzones">
     <p>Cadastro de Redzones</p>
   </div>
 </details>
 
 <details>
-  <summary><b>Monitoramento de Fluxo de Pessoas</b></summary>
+  <summary><b>Cadastro de Departamentos</b></summary>
   <div align="center">
-    <img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f96c2b50-5f6c-4c10-ac43-475b70624221" alt="Monitoramento de Fluxo de Pessoas">
-    <p>Monitoramento de Fluxo de Pessoas</p>
-  </div>
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/e0ed86c9-50f0-4d0f-9b72-3071360e6b47" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
 </details>
+<details>
+  <summary><b>Cadastro de Usuarios</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/267dc739-a975-4c38-a2f1-49679e889154" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
+</details>
+<details>
+  <summary><b>Geração de Relatório Departamento</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/12c3d0fb-ab05-4102-a994-b015f8ab0682" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
+</details>
+
+<details>
+  <summary><b>Filtro de Redzones</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/1911870d-56d9-4a07-b65b-a68476f7326b" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
+</details>
+
+<details>
+  <summary><b>Recuperar Senha</b></summary>
+  <div align="center">
+    <img src="https://github.com/dsslleagion/PortfolioADS-Dionisio-Samuel/assets/88494278/8de514a6-a862-4592-93bb-e746239754d4" alt="Cadastro de Redzones">
+    <p>Cadastro de Redzones</p>
+</details>
+
 
 ## Link do GitHub
 
@@ -1155,15 +1184,20 @@ Desenvolver uma aplicação web onde seja possível consultar, atualizar, desati
   <li><a href="https://scikit-learn.org/">Scikit-learn</a>: Biblioteca de aprendizado de máquina em Python utilizada para análise de dados e desenvolvimento de modelos de machine learning.</li>
   <li><a href="https://code.visualstudio.com/">Visual Studio Code</a>: Ambiente de desenvolvimento integrado (IDE) amplamente utilizado para desenvolvimento de software.</li>
   <li><a href="https://discord.com/">Discord</a>: Plataforma de comunicação por voz, vídeo e texto amplamente utilizada para comunicação e colaboração em equipe.</li>
+  <li><a href="https://render.com/">Render</a>: Plataforma de hospedagem utilizada para o deploy do frontend e backend.</li>
 </ul>
 
 **Back-end:** Java 17, Spring Boot com Maven, Supabase Database.  
 **Front-end:** Vue.js, Node.js.  
-**Ferramentas:** Python, YOLO, Scikit-learn, Visual Studio Code, Discord.
+**Ferramentas:** Python, YOLO, Scikit-learn, Visual Studio Code, Discord, Render.
 
 ## Contribuições Pessoais 
 
-Durante o desenvolvimento deste projeto, fui responsável pela implementação do backend utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. No frontend, contribuí com a integração do Vue.js e Node.js, assegurando uma interface de usuário eficiente e responsiva. Além disso, desenvolvi scripts em Python para análise de dados e integração do YOLO para monitoramento em tempo real.
+Durante o desenvolvimento deste projeto, fui responsável pela implementação do sistema backend completo utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. Realizei o deploy do frontend, backend e banco de dados, utilizando a plataforma Render para o deploy do frontend e backend, e o Supabase para o banco de dados. Também fiz a conexão entre o backend e o frontend desenvolvido em Vue.js e Node.js.
+
+Implementei um sistema de login na plataforma e desenvolvi todos os CRUDs para redzones, departamentos, logs e seus relacionamentos. Além disso, implementei um sistema de envio de emails para recuperação de senha e um sistema de criptografia de senha, proporcionando funcionalidades essenciais para a segurança dos usuários.
+
+
 
 ### Hard Skills
 <details>
@@ -1233,9 +1267,10 @@ Durante o desenvolvimento deste projeto, fui responsável pela implementação d
 
 ## Lições Aprendidas
 
-Durante o desenvolvimento deste projeto, fui responsável pela implementação do backend utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. No frontend, contribuí com a integração do Vue.js e Node.js, assegurando uma interface de usuário eficiente e responsiva. Além disso, desenvolvi scripts em Python para análise de dados e integração do YOLO para monitoramento em tempo real. 
+Durante o desenvolvimento deste projeto, fui responsável pela implementação do sistema backend completo utilizando Java 17 com Spring Boot, gerenciando dependências com Maven e integrando o banco de dados Supabase. Realizei o deploy do frontend, backend e banco de dados, utilizando a plataforma Render para o deploy do frontend e backend, e o Supabase para o banco de dados. Também implementei um sistema de login, desenvolvi todos os CRUDs para redzones, departamentos, logs e seus relacionamentos, além de criar um sistema de envio de emails para recuperação de senha e um sistema de criptografia de senha.
 
-Essa experiência foi enriquecedora, destacando a importância de uma abordagem integrada no desenvolvimento de aplicações web, onde a combinação de várias tecnologias e ferramentas contribui para um produto final robusto e eficiente. A integração entre diferentes tecnologias e a capacidade de adaptar-se a novas ferramentas foram habilidades fundamentais aprimoradas durante este semestre.
+Essa experiência foi enriquecedora, destacando a importância de uma abordagem integrada no desenvolvimento de aplicações web. A combinação de várias tecnologias e ferramentas contribuiu para um produto final robusto e eficiente. A integração entre diferentes tecnologias e a capacidade de adaptar-se a novas ferramentas foram habilidades fundamentais aprimoradas durante este semestre.
+
 
 
 
