@@ -1038,10 +1038,6 @@ Essa ferramenta desempenha um papel fundamental em processos de manutenção, on
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Desenvolvimento mobile</td>
-      <td>★★★★☆☆☆☆☆☆</td>
-    </tr>
-    <tr>
       <td>Estruturação do Backend</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
