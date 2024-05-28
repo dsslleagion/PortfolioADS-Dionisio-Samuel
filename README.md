@@ -1223,11 +1223,11 @@ Implementei um sistema de login na plataforma e desenvolvi todos os CRUDs para r
     </tr>
     <tr>
       <td>Desenvolvimento Backend</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
       <td>Modelagem de Banco de Dados</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
     <tr>
       <td>Desenvolvimento Frontend</td>
@@ -1235,7 +1235,7 @@ Implementei um sistema de login na plataforma e desenvolvi todos os CRUDs para r
     </tr>
     <tr>
       <td>Integração de Ferramentas de Análise de Dados</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
       <td>Monitoramento em Tempo Real com YOLO</td>
@@ -1258,26 +1258,26 @@ Implementei um sistema de login na plataforma e desenvolvi todos os CRUDs para r
     </tr>
     <tr>
       <td>Trabalho Colaborativo</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
     <tr>
       <td>Expressão Eficiente de Ideias</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
       <td>Superando Desafios Técnicos</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
   </table>
 </details>
 
 ## Exemplos de Aplicação
 
-1. **Trabalho Colaborativo**: Participando ativamente de um projeto complexo, contribuí de maneira efetiva ao trabalhar em conjunto com colegas de diversas áreas. Minhas habilidades foram colocadas em prática, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados.
+1. **Trabalho Colaborativo**: Participando ativamente de um projeto complexo, contribuí de maneira efetiva ao trabalhar em conjunto com colegas de diversas áreas. Minhas habilidades foram colocadas em prática, enquanto eu estava atento às valiosas contribuições dos outros membros da equipe, visando atingir nossos objetivos compartilhados. Minha comunicação no grupo foi assertiva e rápida, garantindo eficiência no desenvolvimento do software. Sempre mantive calma, paciência e compreensão ao explicar ou discutir algo que meus colegas precisavam entender.
 
 2. **Expressão Eficiente de Ideias**: Em uma reunião de equipe, apresentei minhas ideias de maneira clara e objetiva, assegurando que todos compreendessem integralmente os planos e metas do projeto.
 
-3. **Superando Desafios Técnicos**: Enfrentei um desafio técnico significativo e, por meio de uma análise cuidadosa e pesquisa aprofundada, encontrei uma solução eficiente que permitiu a progressão contínua do projeto, sem contratempos.
+3. **Superando Desafios Técnicos**: Enfrentei um desafio técnico significativo ao trabalhar com o backend e frontend localmente, o que se mostrou muito custoso. Isso me levou a adaptar todo o ambiente para ser deployado, incluindo o banco de dados e sua versatilidade. Por meio de uma análise cuidadosa e pesquisa aprofundada, encontrei uma solução eficiente que permitiu a progressão contínua do projeto, sem contratempos.
 
 ## Lições Aprendidas
 
