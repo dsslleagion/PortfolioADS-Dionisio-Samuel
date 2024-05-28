@@ -127,6 +127,24 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
   </ul>
 </div>
 
+<div class="sexto-semestre">
+  <ul><a href="#sexto-semestre-altave">Sexto Semestre - Altave</a>
+    <details>
+      <summary><a href="#Em-2024-1">Em 2024-1</a></summary>
+      <ul>◻️ <a href="#Parceiro-Altave">Parceiro Altave</a></ul>
+      <ul>◻️ <a href="#Visão-do-Projeto">Visão do Projeto</a></ul>
+      <ul>◻️ <a href="#Demonstração-do-Projeto">Demonstração do Projeto</a></ul>
+      <ul>◻️ <a href="#Link-do-Github">Link do GitHub</a></ul>
+      <ul>◻️ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></ul>
+      <ul>◻️ <a href="#Contribuições-Pessoais">Contribuições Pessoais</a></ul>
+      <ul>◻️ <a href="#Hard-Skills">Hard Skills</a></ul>
+      <ul>◻️ <a href="#Soft-Skills">Soft Skills</a></ul>
+      <ul>◻️ <a href="#Exemplos-de-Aplicação">Exemplos de Aplicação</a></ul>
+      <ul>◻️ <a href="#Lições-Aprendidas">Lições Aprendidas</a></ul>
+    </details>
+  </ul>
+</div>
+
 <hr>
 <h2>Sobre o Autor</h2>
 <p align="center"><img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/b33903b4-fdba-45b6-8e4e-9fa818d163cc" width="20%"></p>
